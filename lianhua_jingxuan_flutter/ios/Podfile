@@ -1,7 +1,6 @@
 # Using a CDN with CocoaPods 1.7.2 or later can save a lot of time on pod installation, but it's experimental rather than the default.
 
 source 'https://github.com/CocoaPods/Specs.git'
-source 'http://github.app.hd123.cn:10080/ios/pod-specs.git'
 
 # Uncomment this line to define a global platform for your project
  platform :ios, '9.0'
@@ -40,9 +39,9 @@ end
 target 'Runner' do
   use_frameworks!
 
-  pod “BaiduMapKit”, '~> 5.0.0' #百度地图SDK
-  pod "BMKLocationKit", '1.8.0'
-  pod 'UpdateManager', '~> 1.2.9'
+  #pod “BaiduMapKit”, '~> 5.0.0' #百度地图SDK
+  #pod "BMKLocationKit", '1.8.0'
+  #pod 'UpdateManager', '~> 1.2.9'
   
   # Prepare symlinks folder. We use symlinks to avoid having Podfile.lock
   # referring to absolute paths on developers' machines.

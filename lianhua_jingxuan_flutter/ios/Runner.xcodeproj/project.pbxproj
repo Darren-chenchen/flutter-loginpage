@@ -13,16 +13,12 @@
 		3B80C3951E831B6300D905FE /* App.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 3B80C3931E831B6300D905FE /* App.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		513AC5CB9269D10F7D484BA0 /* Pods_Runner.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F53CF59F1D53E91ECA7F5C4 /* Pods_Runner.framework */; };
 		74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74858FAE1ED2DC5600515810 /* AppDelegate.swift */; };
-		952ADA0C2350173100793B9C /* MethodChannelTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 952ADA0B2350173100793B9C /* MethodChannelTools.swift */; };
-		954EA01C23407BE600D58C4D /* MyMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954EA01A23407BE600D58C4D /* MyMapView.swift */; };
-		954EA01D23407BE600D58C4D /* MyPlatformViewFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 954EA01B23407BE600D58C4D /* MyPlatformViewFactory.swift */; };
 		954EA01F23408CE100D58C4D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 954EA01E23408CE100D58C4D /* CoreLocation.framework */; };
 		954EA02123408CE900D58C4D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 954EA02023408CE900D58C4D /* QuartzCore.framework */; };
 		954EA02323408CF400D58C4D /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 954EA02223408CF400D58C4D /* OpenGLES.framework */; };
 		954EA02523408CFC00D58C4D /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 954EA02423408CFC00D58C4D /* SystemConfiguration.framework */; };
 		954EA02723408D0A00D58C4D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 954EA02623408D0A00D58C4D /* CoreGraphics.framework */; };
 		954EA02923408D1300D58C4D /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 954EA02823408D1300D58C4D /* Security.framework */; };
-		956963B9234F2B840083F0BF /* MapTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = 956963B8234F2B840083F0BF /* MapTools.swift */; };
 		9705A1C61CF904A100538489 /* Flutter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9740EEBA1CF902C7004384FC /* Flutter.framework */; };
 		9705A1C71CF904A300538489 /* Flutter.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 9740EEBA1CF902C7004384FC /* Flutter.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		9740EEB41CF90195004384FC /* Debug.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 9740EEB21CF90195004384FC /* Debug.xcconfig */; };
@@ -56,10 +52,7 @@
 		74858FAD1ED2DC5600515810 /* Runner-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runner-Bridging-Header.h"; sourceTree = "<group>"; };
 		74858FAE1ED2DC5600515810 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7AFA3C8E1D35360C0083082E /* Release.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = Release.xcconfig; path = Flutter/Release.xcconfig; sourceTree = "<group>"; };
-		952ADA0B2350173100793B9C /* MethodChannelTools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MethodChannelTools.swift; sourceTree = "<group>"; };
 		954EA0112340617B00D58C4D /* libcryptex.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libcryptex.tbd; path = usr/lib/libcryptex.tbd; sourceTree = SDKROOT; };
-		954EA01A23407BE600D58C4D /* MyMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyMapView.swift; sourceTree = "<group>"; };
-		954EA01B23407BE600D58C4D /* MyPlatformViewFactory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyPlatformViewFactory.swift; sourceTree = "<group>"; };
 		954EA01E23408CE100D58C4D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		954EA02023408CE900D58C4D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		954EA02223408CF400D58C4D /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
@@ -67,7 +60,6 @@
 		954EA02623408D0A00D58C4D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		954EA02823408D1300D58C4D /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		954EA02A23408D2C00D58C4D /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
-		956963B8234F2B840083F0BF /* MapTools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapTools.swift; sourceTree = "<group>"; };
 		9740EEB21CF90195004384FC /* Debug.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Debug.xcconfig; path = Flutter/Debug.xcconfig; sourceTree = "<group>"; };
 		9740EEB31CF90195004384FC /* Generated.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; name = Generated.xcconfig; path = Flutter/Generated.xcconfig; sourceTree = "<group>"; };
 		9740EEBA1CF902C7004384FC /* Flutter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Flutter.framework; path = Flutter/Flutter.framework; sourceTree = "<group>"; };
@@ -100,25 +92,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		954EA01923407BE600D58C4D /* demo */ = {
-			isa = PBXGroup;
-			children = (
-				956963B7234F2B600083F0BF /* Map */,
-				952ADA0B2350173100793B9C /* MethodChannelTools.swift */,
-			);
-			path = demo;
-			sourceTree = "<group>";
-		};
-		956963B7234F2B600083F0BF /* Map */ = {
-			isa = PBXGroup;
-			children = (
-				954EA01A23407BE600D58C4D /* MyMapView.swift */,
-				954EA01B23407BE600D58C4D /* MyPlatformViewFactory.swift */,
-				956963B8234F2B840083F0BF /* MapTools.swift */,
-			);
-			path = Map;
-			sourceTree = "<group>";
-		};
 		9740EEB11CF90186004384FC /* Flutter */ = {
 			isa = PBXGroup;
 			children = (
@@ -154,7 +127,6 @@
 		97C146F01CF9000F007C117D /* Runner */ = {
 			isa = PBXGroup;
 			children = (
-				954EA01923407BE600D58C4D /* demo */,
 				97C146FA1CF9000F007C117D /* Main.storyboard */,
 				97C146FD1CF9000F007C117D /* Assets.xcassets */,
 				97C146FF1CF9000F007C117D /* LaunchScreen.storyboard */,
@@ -216,7 +188,6 @@
 				9705A1C41CF9048500538489 /* Embed Frameworks */,
 				3B06AD1E1E4923F5004D2608 /* Thin Binary */,
 				6775ECF18AD99ED1EF47D918 /* [CP] Embed Pods Frameworks */,
-				CAC0389A0B7B3CD2935CBF05 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -343,21 +314,6 @@
 			shellPath = /bin/sh;
 			shellScript = "\"$FLUTTER_ROOT/packages/flutter_tools/bin/xcode_backend.sh\" build\n";
 		};
-		CAC0389A0B7B3CD2935CBF05 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -365,12 +321,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				954EA01D23407BE600D58C4D /* MyPlatformViewFactory.swift in Sources */,
 				74858FAF1ED2DC5600515810 /* AppDelegate.swift in Sources */,
-				952ADA0C2350173100793B9C /* MethodChannelTools.swift in Sources */,
 				1498D2341E8E89220040F4C2 /* GeneratedPluginRegistrant.m in Sources */,
-				956963B9234F2B840083F0BF /* MapTools.swift in Sources */,
-				954EA01C23407BE600D58C4D /* MyMapView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

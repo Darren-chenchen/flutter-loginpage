@@ -1,7 +1,4 @@
 PODS:
-  - Alamofire (4.9.1)
-  - BaiduMapKit (5.0.0)
-  - BMKLocationKit (1.8.0)
   - city_pickers (0.0.1):
     - Flutter
   - connectivity (0.0.1):
@@ -13,15 +10,12 @@ PODS:
   - FMDB (2.7.5):
     - FMDB/standard (= 2.7.5)
   - FMDB/standard (2.7.5)
-  - ObjectMapper (3.5.1)
   - package_info (0.0.1):
     - Flutter
   - path_provider (0.0.1):
     - Flutter
   - permission_handler (3.2.2):
     - Flutter
-  - PopViewUtil (1.2.5):
-    - SVProgressHUD
   - Reachability (3.2)
   - screen (0.0.1):
     - Flutter
@@ -31,22 +25,13 @@ PODS:
     - Flutter
   - shared_preferences_web (0.0.1):
     - Flutter
-  - SnapKit (4.2.0)
   - sqflite (0.0.1):
     - Flutter
     - FMDB (~> 2.7.2)
-  - SVProgressHUD (2.2.5)
-  - UpdateManager (1.2.10):
-    - Alamofire (~> 4)
-    - ObjectMapper (~> 3)
-    - PopViewUtil (~> 1)
-    - SnapKit (~> 4)
   - video_player (0.0.1):
     - Flutter
 
 DEPENDENCIES:
-  - BaiduMapKit (~> 5.0.0)
-  - BMKLocationKit (= 1.8.0)
   - city_pickers (from `.symlinks/plugins/city_pickers/ios`)
   - connectivity (from `.symlinks/plugins/connectivity/ios`)
   - Flutter (from `.symlinks/flutter/ios`)
@@ -59,22 +44,12 @@ DEPENDENCIES:
   - shared_preferences_macos (from `.symlinks/plugins/shared_preferences_macos/ios`)
   - shared_preferences_web (from `.symlinks/plugins/shared_preferences_web/ios`)
   - sqflite (from `.symlinks/plugins/sqflite/ios`)
-  - UpdateManager (~> 1.2.9)
   - video_player (from `.symlinks/plugins/video_player/ios`)
 
 SPEC REPOS:
-  http://github.app.hd123.cn:10080/ios/pod-specs.git:
-    - PopViewUtil
-    - UpdateManager
-  https://github.com/cocoapods/specs.git:
-    - Alamofire
-    - BaiduMapKit
-    - BMKLocationKit
+  https://github.com/CocoaPods/Specs.git:
     - FMDB
-    - ObjectMapper
     - Reachability
-    - SnapKit
-    - SVProgressHUD
 
 EXTERNAL SOURCES:
   city_pickers:
@@ -105,30 +80,22 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/video_player/ios"
 
 SPEC CHECKSUMS:
-  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
-  BaiduMapKit: 3a875b001293a9ee6692febd549d8bf82108dbac
-  BMKLocationKit: 29f9f04827bfe2f2ca2c1c87b11161f05d4189a5
   city_pickers: b0370f4c35c201723b5b7fcce10ec29b59d5bc35
   connectivity: c72716e202a1225ec4810740d5cb56b8ae3bf4cc
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   flutter_picker: 8ff0d7440b4e8327fcc9e6b21a39ef9369e697c7
   FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
-  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
   package_info: 78cabb3c322943c55d39676f4a5bfc748c01d055
   path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
   permission_handler: d59f41439f5bc6c4d1005f3355e98f05ddc68ece
-  PopViewUtil: 4c747d2f4c75d649b7a62dff2809875a38a0c6f5
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
   screen: abd91ca7bf3426e1cc3646d27e9b2358d6bf07b0
   shared_preferences: 430726339841afefe5142b9c1f50cb6bd7793e01
   shared_preferences_macos: f3f29b71ccbb56bf40c9dd6396c9acf15e214087
   shared_preferences_web: 141cce0c3ed1a1c5bf2a0e44f52d31eeb66e5ea9
-  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
   sqflite: ff1d9da63c06588cc8d1faf7256d741f16989d5a
-  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
-  UpdateManager: 5152b3cc0559e4a4a9d2a5de291d9b344e2fd041
   video_player: 3964090a33353060ed7f58aa6427c7b4b208ec21
 
-PODFILE CHECKSUM: bcdb6a2f188a7ca73e932d8eca3805e9fb3bedf0
+PODFILE CHECKSUM: a94882439d2c7800d41494df574578c5639c2870
 
-COCOAPODS: 1.7.0
+COCOAPODS: 1.9.1
