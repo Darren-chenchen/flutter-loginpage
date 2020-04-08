@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_home</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE6248" offset="0%"></stop>
+            <stop stop-color="#FE4954" offset="100%"></stop>
+        </linearGradient>
+        <path d="M23.6628569,11.326916 L3.61697166,30.5167355 C3.22287332,30.8940038 3,31.415893 3,31.9614613 L3,40 C3,44.418278 6.581722,48 11,48 L39,48 C43.418278,48 47,44.418278 47,40 L47,31.9588331 C47,31.4148092 46.7783829,30.8942598 46.3862378,30.5171866 L26.4321231,11.3299952 C25.6591366,10.586718 24.4374944,10.5853596 23.6628569,11.326916 Z" id="path-2"></path>
+        <filter x="-15.9%" y="-13.4%" width="131.8%" height="137.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.321568627   0 0 0 0 0.188235294  0 0 0 0.203534747 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M23.5887633,40.6210855 C19.1962544,36.2477234 17,33.2252627 17,31.5537035 L17,30.5928356 C17.2207406,27.7062392 19.0332635,26.1999361 20.6006559,26.0392239 C20.8582612,26.012918 21.0991962,26 21.3252511,26 C23.1363196,26 24.0052409,27.6290245 24.9998601,28.8732673 C25.9944794,27.6290832 26.8628972,26 28.6742454,26 C28.9002444,26 29.1413473,26.0128006 29.3988406,26.0392826 C30.966289,26.1999361 32.778756,27.7062979 33,30.5928943 L33,31.5536448 C33,33.2252443 30.8036564,36.2477367 26.4109692,40.621122 L26.4109576,40.6211104 C25.6306241,41.398015 24.3690831,41.3980039 23.5887633,40.6210855 Z" id="path-4"></path>
+        <filter x="-43.8%" y="-31.2%" width="187.5%" height="182.5%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.396771198 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1103.000000, -719.000000)">
+            <g id="ic_home" transform="translate(1103.000000, 719.000000)">
+                <g id="cutting/ic_home">
+                    <g transform="translate(7.000000, 8.000000)">
+                        <g id="形状结合" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="路径" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                        </g>
+                        <polyline id="路径-2" stroke="#FE6049" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill-rule="nonzero" points="0.384530272 23.8685784 25 0.0622806177 50.287284 23.8685784"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

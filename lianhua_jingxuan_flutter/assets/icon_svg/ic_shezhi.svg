@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>cutting/ic_shezhi</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1342.000000, -525.000000)">
+            <g id="ic_set_white" transform="translate(1342.000000, 525.000000)">
+                <g id="cutting/ic_shezhi">
+                    <g>
+                        <rect id="Rectangle-23" x="0" y="0" width="48" height="48"></rect>
+                        <path d="M26.0103813,7.38179328 L36.8236215,13.6149108 C38.3103575,14.4719158 39.2264804,16.057428 39.2264804,17.773482 L39.2264804,30.226518 C39.2264804,31.942572 38.3103575,33.5280842 36.8236215,34.3850892 L26.0103813,40.6182067 C24.5267099,41.4734451 22.6997705,41.4734451 21.216099,40.6182067 L10.4028588,34.3850892 C8.91612284,33.5280842 8,31.942572 8,30.226518 L8,17.773482 C8,16.057428 8.91612284,14.4719158 10.4028588,13.6149108 L21.216099,7.38179328 C22.6997705,6.52655486 24.5267099,6.52655486 26.0103813,7.38179328 Z" id="Polygon-2" stroke="#FFFFFF" stroke-width="3"></path>
+                        <ellipse id="Oval-9" stroke="#FFFFFF" stroke-width="3" opacity="0.499790737" cx="23.5945946" cy="24" rx="5.7972973" ry="5.78571429"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

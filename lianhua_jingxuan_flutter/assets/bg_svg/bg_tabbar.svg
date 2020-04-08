@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="750px" height="143px" viewBox="0 0 750 143" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_tabbar</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0,23 C6.09000474,36.3980104 19.4489305,45 34.1660919,45 L296.96763,45 C311.531852,45 325.9203,41.8186937 339.126921,35.6785208 L347.038886,32 C364.772907,23.7548966 385.237086,23.7333425 402.988437,31.9410707 L411.263284,35.7671287 C424.41832,41.8496494 438.738295,45 453.231467,45 L715.833908,45 C730.551069,45 743.909995,36.3980104 750,23 L750,23 L750,23 L750,143 L0,143 L0,23 Z" id="path-1"></path>
+        <filter x="-4.4%" y="-28.2%" width="108.8%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0641936189 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="背景" transform="translate(-112.000000, -249.000000)">
+            <g id="bg_tabbar" transform="translate(112.000000, 249.000000)">
+                <g>
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="30px" viewBox="0 0 56 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_tag_2text_02</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="1.43583203%" y1="35.6505102%" x2="100%" y2="64.3494898%" id="linearGradient-1">
+            <stop stop-color="#55C6FF" offset="0%"></stop>
+            <stop stop-color="#0065FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="背景" transform="translate(-218.000000, -837.000000)" fill="url(#linearGradient-1)">
+            <g id="bg_tag_2text_02" transform="translate(218.000000, 837.000000)">
+                <path d="M8,0 L48,0 C52.418278,-8.11624501e-16 56,3.581722 56,8 L56,28 L56,28 C47.19462,29.3333333 38.0383022,30 28.5310464,30 C19.0237907,30 9.51344185,29.3333333 0,28 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

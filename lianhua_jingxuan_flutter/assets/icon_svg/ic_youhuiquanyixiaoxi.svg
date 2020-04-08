@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_youhuiquanyixiaoxi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEE310" offset="0%"></stop>
+            <stop stop-color="#FFB51B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M54,26 C60.2908458,26 65.451074,30.8407497 65.9589703,37.0005348 L71.3471414,37 C73.4159543,37 75.1434128,38.5775404 75.3307143,40.637857 L78.6034415,76.637857 C78.8034476,78.8379235 77.1820782,80.7835668 74.9820117,80.9835728 C74.8616077,80.9945186 74.7407693,81 74.6198687,81 L33.3801313,81 C31.1709923,81 29.3801313,79.209139 29.3801313,77 C29.3801313,76.8790994 29.3856126,76.7582611 29.3965585,76.637857 L32.6692857,40.637857 C32.8565872,38.5775404 34.5840457,37 36.6528586,37 L42.0410297,37.0005348 C42.548926,30.8407497 47.7091542,26 54,26 Z M54,30 C49.9203656,30 46.5539641,33.0537136 46.0618877,37.0000487 L61.9381123,37.0000487 C61.4460359,33.0537136 58.0796344,30 54,30 Z" id="path-2"></path>
+        <filter x="-26.4%" y="-20.0%" width="152.8%" height="147.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.655594406   0 0 0 0 0  0 0 0 0.394421984 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M62.3091277,52.6897752 C61.2146775,51.5973409 59.7643962,51 58.21707,51 C56.6697439,51 55.2194625,51.6027224 54.1250123,52.6897752 L54.0010106,52.8135486 L53.8770088,52.6897752 C52.7825586,51.5973409 51.3322773,51 49.7849511,51 C48.237625,51 46.7873436,51.6027224 45.6928934,52.6897752 C44.5984432,53.7822096 44,55.2298196 44,56.7742957 C44,58.3187718 44.6038346,59.7663818 45.6928934,60.8588161 L46.1996832,61.3646724 L53.004925,67.1527911 C53.5792638,67.6412882 54.4229928,67.6415652 54.9976521,67.1534452 L61.7430328,61.4238683 L61.7430328,61.4238683 L62.3145191,60.8588161 C64.5627247,58.6093701 64.5627247,54.9446027 62.3091277,52.6897752 Z" id="path-4"></path>
+        <filter x="-27.5%" y="-20.6%" width="155.0%" height="161.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-602.000000, -1606.000000)">
+            <g id="ic_youhuiquanyixiaoxi" transform="translate(602.000000, 1606.000000)">
+                <g id="cutting/ic_youhuiquanyixiaoxi">
+                    <g id="cutting/ic_tuikuanxiaoxi" stroke-width="1" fill-rule="evenodd" fill="#FFF7E7">
+                        <circle id="椭圆形" cx="54" cy="54" r="54"></circle>
+                    </g>
+                    <g id="袋子">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="heart" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                    </g>
+                    <rect x="0" y="0" width="108" height="108"></rect>
+                    <g id="编组" stroke-width="1" fill-rule="evenodd" transform="translate(42.000000, 26.000000)"></g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

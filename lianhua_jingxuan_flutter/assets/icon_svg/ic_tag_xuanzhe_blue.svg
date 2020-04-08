@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>cutting/ic_tag_xuanzhe_blue@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="32"></rect>
+    </defs>
+    <g id="cutting/ic_tag_xuanzhe_blue" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cutting/ic_tag_xuanzhe">
+            <g id="椭圆形">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="蒙版"></g>
+                <circle fill="#0065FF" mask="url(#mask-2)" cx="29.3333333" cy="2.33333333" r="29.3333333"></circle>
+            </g>
+            <polyline id="Path-3" stroke="#FFFFFF" stroke-width="2.66666667" stroke-linecap="round" stroke-linejoin="round" transform="translate(20.666667, 13.333333) rotate(-16.000000) translate(-20.666667, -13.333333) " points="14 12.0625446 17.175208 16.6666667 27.3333333 10"></polyline>
+        </g>
+    </g>
+</svg>

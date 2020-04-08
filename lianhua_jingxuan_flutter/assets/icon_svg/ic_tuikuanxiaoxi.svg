@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_tuikuanxiaoxi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE6248" offset="0%"></stop>
+            <stop stop-color="#FE4954" offset="100%"></stop>
+        </linearGradient>
+        <path d="M56,27.1547005 L76.2487113,38.8452995 C77.4863156,39.5598306 78.2487113,40.8803387 78.2487113,42.3094011 L78.2487113,65.6905989 C78.2487113,67.1196613 77.4863156,68.4401694 76.2487113,69.1547005 L56,80.8452995 C54.7623957,81.5598306 53.2376043,81.5598306 52,80.8452995 L31.7512887,69.1547005 C30.5136844,68.4401694 29.7512887,67.1196613 29.7512887,65.6905989 L29.7512887,42.3094011 C29.7512887,40.8803387 30.5136844,39.5598306 31.7512887,38.8452995 L52,27.1547005 C53.2376043,26.4401694 54.7623957,26.4401694 56,27.1547005 Z" id="path-2"></path>
+        <filter x="-16.5%" y="-18.5%" width="133.0%" height="144.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.321568627   0 0 0 0 0.188235294  0 0 0 0.396279502 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M63.2986417,52.0243125 C63.0689542,51.6774375 62.7173917,51.382125 62.3142667,51.325875 L55.2408292,49.5868125 L57.6173917,43.5586875 L57.6173917,43.38525 C57.6173917,43.038375 57.5002042,42.6868125 57.2705167,42.400875 C56.7502042,41.819625 55.7048917,41.8805625 55.2408292,42.5180625 L45.3220792,52.08525 L45.2048917,52.2586875 C44.9752042,52.6618125 44.9142667,53.1868125 45.1486417,53.5899375 C45.3783292,53.9930625 45.7908292,54.232125 46.1939542,54.288375 L52.6298917,55.563375 L49.4423917,64.5493125 L49.3861417,64.6665 C49.3298917,65.069625 49.4423917,65.4774375 49.6767667,65.7680625 C49.9064542,66.0586875 50.3189542,66.232125 50.7220792,66.232125 C51.1861417,66.232125 51.5939542,66.0024375 51.8236417,65.650875 L63.1861417,53.47275 L63.3033292,53.2993125 C63.5283292,52.8961875 63.5283292,52.432125 63.2986417,52.0243125 L63.2986417,52.0243125 Z" id="path-4"></path>
+        <filter x="-37.9%" y="-20.6%" width="175.8%" height="157.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-428.000000, -1605.000000)">
+            <g id="ic_tuikuanxiaoxi" transform="translate(428.000000, 1605.000000)">
+                <g id="cutting/ic_tuikuanxiaoxi">
+                    <g stroke-width="1" fill-rule="evenodd">
+                        <circle id="椭圆形" fill="#FFEEEB" cx="54" cy="54" r="54"></circle>
+                        <g id="六边形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="闪电" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                    <rect x="0" y="0" width="108" height="108"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_yaoqingjiangli</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEE310" offset="0%"></stop>
+            <stop stop-color="#FFB51B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M13,0 C14.1045695,-2.02906125e-16 15,0.8954305 15,2 L15,4 C16.6568542,4 18,5.34314575 18,7 C18,8.65685425 16.6568542,10 15,10 C14.9715834,10 14.9432591,9.99960491 14.9150323,9.99881992 C14.4961627,12.5129066 12.510933,14.4976843 9.99568163,14.9177653 C9.99882258,14.9436304 10,14.9716777 10,15 L10,18 L11,18 C11.5522847,18 12,18.4477153 12,19 C12,19.5522847 11.5522847,20 11,20 L7,20 C6.44771525,20 6,19.5522847 6,19 C6,18.4477153 6.44771525,18 7,18 L8,18 L8,18 L8,15 L8.00431485,14.9177638 C5.48903612,14.4976712 3.50356625,12.5127916 3.08259171,9.99781156 L3,10 C1.34314575,10 0,8.65685425 0,7 C0,5.40231912 1.24891996,4.09633912 2.82372721,4.00509269 L3,4 L3,2 C3,0.8954305 3.8954305,2.02906125e-16 5,0 L13,0 Z M15,6 L15,8 C15.5522847,8 16,7.55228475 16,7 C16,6.44771525 15.5522847,6 15,6 Z M3,6 C2.44771525,6 2,6.44771525 2,7 C2,7.51283584 2.38604019,7.93550716 2.88337887,7.99327227 L3,8 L3,6 Z" id="path-2"></path>
+        <filter x="-38.9%" y="-25.0%" width="177.8%" height="170.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.50161167 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-973.000000, -261.000000)">
+            <g id="ic_yaoqingjiangli" transform="translate(973.000000, 261.000000)">
+                <g id="cutting/ic_yaoqingjiangli">
+                    <g>
+                        <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="32" height="32" rx="8"></rect>
+                        <g id="编组" transform="translate(7.000000, 6.000000)">
+                            <g id="形状结合">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>hdpi/cutting/ic_down_grey_small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="cutting/ic_down_grey_small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <path d="M12.0003117,2 C17.5232124,2 22,6.47738958 22,12.0003117 C22,17.5232339 17.5232124,22 12.0003117,22 C6.47743257,22 2,17.5231909 2,12.0003117 C2,6.47743257 6.47741107,2 12.0003117,2 Z M15.4218866,9 L8.58062626,9 C8.33754796,9.0248229 8.12824788,9.21428297 8.04189347,9.4883344 C7.95460674,9.76240228 8.00623654,10.0702965 8.17328917,10.2834612 L11.5953454,14.780053 C11.6975874,14.9198587 11.8449741,15 11.9998604,15 C12.1547472,15 12.3021346,14.9198596 12.4043753,14.780053 L15.8264029,10.283459 C15.9934695,10.0714311 16.0450992,9.76241765 15.9587581,9.48946918 C15.8724168,9.21652072 15.6640206,9.0259399 15.4218866,9 Z" id="形状" fill="#EBEBEE" fill-rule="nonzero"></path>
+            <rect id="cutting/ic_right_grey" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

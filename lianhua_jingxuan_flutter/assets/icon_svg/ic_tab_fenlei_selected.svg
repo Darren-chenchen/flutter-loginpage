@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_tab_fenlei_selected</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9548142%" id="linearGradient-1">
+            <stop stop-color="#55C6FF" offset="0%"></stop>
+            <stop stop-color="#0065FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M12.8285714,23 C14.0278183,23 15,23.9721817 15,25.1714286 L15,35.8285714 C15,37.0278183 14.0278183,38 12.8285714,38 L2.17142857,38 C0.972181686,38 1.03504381e-15,37.0278183 0,35.8285714 L0,25.1714286 C-1.46865386e-16,23.9721817 0.972181686,23 2.17142857,23 L12.8285714,23 Z M32.8285714,23 C34.0278183,23 35,23.9721817 35,25.1714286 L35,35.8285714 C35,37.0278183 34.0278183,38 32.8285714,38 L22.1714286,38 C20.9721817,38 20,37.0278183 20,35.8285714 L20,25.1714286 C20,23.9721817 20.9721817,23 22.1714286,23 L32.8285714,23 Z M29.1420336,1.53543187 L36.6777716,9.07116985 C37.5257672,9.91916546 37.5257672,11.294038 36.6777716,12.1420336 L29.1420336,19.6777716 C28.294038,20.5257672 26.9191655,20.5257672 26.0711699,19.6777716 L18.5354319,12.1420336 C17.6874363,11.294038 17.6874363,9.91916546 18.5354319,9.07116985 L26.0711699,1.53543187 C26.9191655,0.687436263 28.294038,0.687436263 29.1420336,1.53543187 Z M12.8285714,3 C14.0278183,3 15,3.97218169 15,5.17142857 L15,15.8285714 C15,17.0278183 14.0278183,18 12.8285714,18 L2.17142857,18 C0.972181686,18 1.03504381e-15,17.0278183 0,15.8285714 L0,5.17142857 C-1.46865386e-16,3.97218169 0.972181686,3 2.17142857,3 L12.8285714,3 Z" id="path-2"></path>
+        <filter x="-18.8%" y="-13.5%" width="137.5%" height="137.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.396078431   0 0 0 0 1  0 0 0 0.401606206 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-4" cx="27.5" cy="10.5" r="3.5"></circle>
+        <filter x="-100.0%" y="-71.4%" width="300.0%" height="300.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.196323208 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-511.000000, -621.000000)">
+            <g id="ic_tab_fenlei_selected" transform="translate(511.000000, 621.000000)">
+                <g id="cutting/ic_tab_fenlei_selected">
+                    <g id="编组" stroke-width="1" fill-rule="evenodd" transform="translate(8.000000, 7.000000)">
+                        <g id="形状结合">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="椭圆形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                    <rect x="0" y="0" width="52" height="52"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

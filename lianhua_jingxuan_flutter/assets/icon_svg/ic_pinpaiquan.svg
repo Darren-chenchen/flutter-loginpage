@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_pinpaiquan</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="75.7538271%" y1="99.8523987%" x2="24.3468287%" y2="0.342443453%" id="linearGradient-1">
+            <stop stop-color="#EED19C" offset="0%"></stop>
+            <stop stop-color="#FFF2D8" stop-opacity="0" offset="99.9313767%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-988.000000, -1265.000000)">
+            <g id="ic_pinpaiquan" transform="translate(988.000000, 1265.000000)">
+                <g id="cutting/ic_pinpaiquan">
+                    <rect id="矩形" stroke="#EDD9C6" fill="#FFFFFF" x="0.5" y="0.5" width="95" height="95" rx="20"></rect>
+                    <g id="编组" transform="translate(32.000000, 26.000000)">
+                        <path d="M23.5047619,15 C23.9255503,15 24.2666667,15.3411164 24.2666667,15.7619048 L24.266,18 L27,18 C31.418278,18 35,21.581722 35,26 L35,39 C35,43.418278 31.418278,47 27,47 L20,47 C15.581722,47 12,43.418278 12,39 L12,26 C12,21.581722 15.581722,18 20,18 L22.733,18 L22.7333333,15.7619048 C22.7333333,15.3411164 23.0744497,15 23.4952381,15 L23.5047619,15 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                        <g id="编组-2">
+                            <path d="M22.4252524,4 L23.4666667,4 C28.1794965,4 32,7.77023369 32,12.4210526 L32,35.5789474 C32,40.2297663 28.1794965,44 23.4666667,44 L8.53333333,44 C3.82050347,44 0,40.2297663 0,35.5789474 L0,12.4210526 C0,7.77023369 3.82050347,4 8.53333333,4 L8.53333333,4 L9.6345051,4 L9.6345051,4" id="路径备份-2" stroke="#535050" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M16,0 C16.5522847,-1.01453063e-16 17,0.44771525 17,1 L17.0007613,10.1262135 C18.7256022,10.570521 20,12.1364348 20,14 C20,16.209139 18.209139,18 16,18 C13.790861,18 12,16.209139 12,14 C12,12.1360729 13.2748927,10.5699129 15.0002435,10.1259548 L15,1 C15,0.44771525 15.4477153,1.01453063e-16 16,0 Z" id="形状结合" fill="#535050"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

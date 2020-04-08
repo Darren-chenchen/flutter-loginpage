@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="116px" height="116px" viewBox="0 0 116 116" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_pause</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-408.000000, -1767.000000)">
+            <g id="ic_pause" transform="translate(408.000000, 1767.000000)">
+                <g id="cutting/ic_pause">
+                    <g stroke-width="1" fill-rule="evenodd">
+                        <circle id="椭圆形" stroke-opacity="0.797448645" stroke="#FFFFFF" stroke-width="2" fill-opacity="0.3" fill="#000000" cx="58" cy="58" r="57"></circle>
+                        <path d="M63.104456,45.8208689 L80.700574,67.4776295 C82.0936407,69.1921732 81.8330322,71.7113892 80.1184885,73.104456 C79.4054856,73.6837708 78.5148011,74 77.596118,74 L42.403882,74 C40.194743,74 38.403882,72.209139 38.403882,70 C38.403882,69.0813169 38.7201112,68.1906323 39.299426,67.4776295 L56.895544,45.8208689 C58.2886108,44.1063252 60.8078268,43.8457167 62.5223705,45.2387834 C62.7359012,45.4122771 62.9309623,45.6073383 63.104456,45.8208689 Z" id="三角形" fill="#FFFFFF" opacity="0.895531064" transform="translate(60.000000, 58.000000) rotate(-270.000000) translate(-60.000000, -58.000000) "></path>
+                    </g>
+                    <rect x="0" y="0" width="116" height="116"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

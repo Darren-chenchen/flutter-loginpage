@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_xize</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE8000" offset="0%"></stop>
+            <stop stop-color="#FE6000" offset="100%"></stop>
+        </linearGradient>
+        <path d="M16,7 C20.9705627,7 25,11.0294373 25,16 C25,20.9705627 20.9705627,25 16,25 C11.0294373,25 7,20.9705627 7,16 C7,11.0294373 11.0294373,7 16,7 Z M16,14 C15.4477153,14 15,14.4477153 15,15 L15,15 L15,20 C15,20.5522847 15.4477153,21 16,21 C16.5522847,21 17,20.5522847 17,20 L17,20 L17,15 C17,14.4477153 16.5522847,14 16,14 Z M16,11 C15.4477153,11 15,11.4477153 15,12 C15,12.5522847 15.4477153,13 16,13 C16.5522847,13 17,12.5522847 17,12 C17,11.4477153 16.5522847,11 16,11 Z" id="path-2"></path>
+        <filter x="-38.9%" y="-27.8%" width="177.8%" height="177.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-914.000000, -261.000000)">
+            <g id="ic_xize" transform="translate(914.000000, 261.000000)">
+                <g id="cutting/ic_xize">
+                    <g id="cutting/ic_yaoqingjiangli">
+                        <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="32" height="32" rx="8"></rect>
+                        <g id="形状结合" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

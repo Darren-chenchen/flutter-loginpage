@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="178px" height="88px" viewBox="0 0 178 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_coupon178_88</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="49.9656883%" y1="100%" x2="49.9656883%" y2="0.308409646%" id="linearGradient-1">
+            <stop stop-color="#EED19C" offset="0%"></stop>
+            <stop stop-color="#FFF2D8" offset="99.9313767%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="背景" transform="translate(-102.000000, -1401.000000)" fill="url(#linearGradient-1)">
+            <g id="bg_coupon178_88" transform="translate(102.000000, 1401.000000)">
+                <path d="M170,0 C174.418278,-8.11624501e-16 178,3.581722 178,8 L178,34 L178,34 C172.477153,34 168,38.4771525 168,44 C168,49.5228475 172.477153,54 178,54 L178,80 C178,84.418278 174.418278,88 170,88 L8,88 C3.581722,88 5.41083001e-16,84.418278 0,80 L0,54 L0,54 C5.5228475,54 10,49.5228475 10,44 C10,38.4771525 5.5228475,34 0,34 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 L170,0 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

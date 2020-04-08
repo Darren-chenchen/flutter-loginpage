@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_edit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-737.000000, -261.000000)">
+            <g id="ic_edit" transform="translate(737.000000, 261.000000)">
+                <g id="cutting/ic_edit">
+                    <g id="编组" stroke-width="1" fill-rule="evenodd" transform="translate(1.000000, 1.000000)">
+                        <g id="编组-3" transform="translate(0.131728, 0.631728)">
+                            <rect id="矩形" fill="#A8A8B6" transform="translate(22.000000, 8.000000) rotate(-45.000000) translate(-22.000000, -8.000000) " x="12" y="7" width="20" height="2" rx="1"></rect>
+                            <g id="路径-2" transform="translate(0.868272, 0.368272)" stroke="#A8A8B6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                                <path d="M28,14.0503225 L28,14.0503225 L28,24 C28,26.209139 26.209139,28 24,28 L4,28 C1.790861,28 0,26.209139 0,24 L0,4 C0,1.790861 1.790861,0 4,0 L4,0 L14.105301,0 L14.105301,0" id="路径"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

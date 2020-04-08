@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_saoma_blue</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1109.000000, -526.000000)">
+            <g id="ic_saoma_blue" transform="translate(1109.000000, 526.000000)">
+                <g id="cutting/ic_saoma_blue">
+                    <g id="cutting/ic_close_black">
+                        <g id="ic_saoma" transform="translate(7.000000, 8.000000)">
+                            <path d="M1.51950559,8.5 L1.51950559,4.5 C1.51950559,2.290861 3.31036659,0.5 5.51950559,0.5 L9.51791389,0.5 L9.51791389,0.5" id="Path-2" stroke="#0065FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                            <path d="M1.51950559,31.5343684 L1.51950559,27.5798649 C1.51950559,25.3707259 3.31036659,23.5798649 5.51950559,23.5798649 L9.54412326,23.5798649 L9.54412326,23.5798649" id="Path-2-Copy-2" stroke="#0065FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.531814, 27.557117) scale(1, -1) translate(-5.531814, -27.557117) "></path>
+                            <path d="M24.518938,8.5 L24.518938,4.5 C24.518938,2.290861 26.309799,0.5 28.518938,0.5 L32.5273819,0.5 L32.5273819,0.5" id="Path-2-Copy" stroke="#0065FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(28.523160, 4.500000) scale(-1, 1) translate(-28.523160, -4.500000) "></path>
+                            <path d="M24.5016199,31.5343684 L24.5016199,27.588825 C24.5016199,25.379686 26.2924809,23.588825 28.5016199,23.588825 L32.5273819,23.588825 L32.5273819,23.588825" id="Path-2-Copy-3" stroke="#0065FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(28.514501, 27.561597) scale(-1, -1) translate(-28.514501, -27.561597) "></path>
+                            <rect id="Rectangle" fill="#0065FF" opacity="0.503396911" x="0" y="15" width="34" height="3" rx="1.5"></rect>
+                        </g>
+                        <rect id="Rectangle-23" x="0" y="0" width="48" height="48"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

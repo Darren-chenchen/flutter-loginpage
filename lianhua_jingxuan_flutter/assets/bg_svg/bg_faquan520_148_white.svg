@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="520px" height="148px" viewBox="0 0 520 148" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_faquan520_148_white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="背景" transform="translate(-961.000000, -2562.000000)">
+            <g id="bg_faquan520_148_white" transform="translate(961.000000, 2562.000000)">
+                <g>
+                    <path d="M356,0 C356,4.418278 359.581722,8 364,8 C368.418278,8 372,4.418278 372,0 L512,0 C516.418278,-8.11624501e-16 520,3.581722 520,8 L520,140 C520,144.418278 516.418278,148 512,148 L372,148 L372,148 C372,143.581722 368.418278,140 364,140 C359.581722,140 356,143.581722 356,148 L8,148 C3.581722,148 5.41083001e-16,144.418278 0,140 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 L356,0 L356,0 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    <line x1="364" y1="12" x2="364" y2="136" id="Line-2" stroke="#B5B8C8" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,4"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

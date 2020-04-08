@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_yuanquan</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.173766,14.893602 L11.2140625,19.8347555 C11.4356964,20.0513638 11.7924636,20.0555451 12.0192933,19.8441927 L21.8349445,10.4943003 C21.9409337,10.3945421 22.0006007,10.2564123 22,10.1122055 C21.9993902,9.96799858 21.9385658,9.830357 21.8317428,9.73146105 L21.2122114,9.15657911 C20.9778324,8.95022854 20.6237762,8.94753191 20.3861695,9.15028766 L12.0345014,16.5624111 C11.796021,16.7652339 11.4421373,16.7652339 11.2036569,16.5624111 L7.64335221,13.3576999 C7.41429834,13.1544439 7.06255514,13.1659173 6.84772656,13.3836522 L6.15535615,14.1024512 C5.94125827,14.3274175 5.94943743,14.6792608 6.173766,14.8943884 L6.173766,14.893602 Z" id="path-1"></path>
+        <filter x="-43.8%" y="-45.5%" width="187.5%" height="227.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.297230114 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-595.000000, -179.000000)">
+            <g id="ic_yuanquan" transform="translate(595.000000, 179.000000)">
+                <g id="cutting/ic_yuanquan">
+                    <circle id="椭圆形" fill="#FFFFFF" fill-rule="evenodd" cx="14" cy="14" r="14"></circle>
+                    <g id="路径">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#A8A8B6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect x="0" y="0" width="28" height="28"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

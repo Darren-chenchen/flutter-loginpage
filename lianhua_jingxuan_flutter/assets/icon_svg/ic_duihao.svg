@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_duihao</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-677.000000, -262.000000)">
+            <g id="ic_duihao" transform="translate(677.000000, 261.000000)">
+                <g id="cutting/ic_duihao">
+                    <path d="M2.30805553,16.7152002 C1.92003989,16.3202061 1.90818664,15.6736581 2.28921337,15.2628659 L3.47314611,13.9864452 C3.85075552,13.5793372 4.48644362,13.5574389 4.89231116,13.9368944 L11.0915392,19.7327043 C11.497713,20.1124462 12.1626732,20.1108721 12.5593359,19.7452573 L27.1668504,6.28111572 C27.5713183,5.90830669 28.2269856,5.9222771 28.6244095,6.3056493 L29.6812651,7.32513749 C30.0817849,7.71149604 30.0839886,8.34373167 29.7008199,8.72279908 L12.5326324,25.7072277 C12.1429124,26.0927763 11.5098645,26.0825045 11.1244175,25.6901251 L2.30805553,16.7152002 Z" fill="#0065FF" fill-rule="evenodd"></path>
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

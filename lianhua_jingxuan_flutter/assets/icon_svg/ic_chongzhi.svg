@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_chongzhi</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M56,34 L56,46 C56,48.209139 54.209139,50 52,50 L20,50 C17.790861,50 16,48.209139 16,46 L16,34 L56,34 Z M26,42 L22,42 C20.8954305,42 20,42.8954305 20,44 C20,45.1045695 20.8954305,46 22,46 L22,46 L26,46 C27.1045695,46 28,45.1045695 28,44 C28,42.8954305 27.1045695,42 26,42 L26,42 Z M16,26 C16,23.790861 17.790861,22 20,22 L52,22 C54.209139,22 56,23.790861 56,26 L56,30 L16,30 L16,26 Z" id="path-1"></path>
+        <filter x="-17.5%" y="-17.9%" width="135.0%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.396078431   0 0 0 0 1  0 0 0 0.362161276 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-353.000000, -841.000000)">
+            <g id="ic_chongzhi" transform="translate(353.000000, 841.000000)">
+                <g id="cutting/ic_chongzhi">
+                    <g id="编组" stroke-width="1" fill-rule="evenodd">
+                        <rect id="矩形" fill="#E6F0FF" x="0" y="0" width="72" height="72" rx="20"></rect>
+                        <g id="形状结合">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#0065FF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                    <rect x="0" y="0" width="72" height="72"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

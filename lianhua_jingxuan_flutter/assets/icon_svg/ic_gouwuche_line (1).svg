@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_gouwuche_line </title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-2196.000000, -525.000000)">
+            <g id="ic_gouwuche_line-" transform="translate(2196.000000, 525.000000)">
+                <g id="cutting/list_ic_gouwuche_line-">
+                    <g id="购物车" transform="translate(7.000000, 8.000000)">
+                        <path d="M20.5977011,14.4934014 C22.4936672,14.4934014 24.0306513,12.961754 24.0306513,11.0723712 C24.0306513,9.1829884 22.4936672,7.651341 20.5977011,7.651341 C18.7017351,7.651341 17.164751,9.1829884 17.164751,11.0723712 C17.164751,12.961754 18.7017351,14.4934014 20.5977011,14.4934014 Z" id="Oval-Copy-2" stroke="#535050" stroke-width="3" opacity="0.503789993"></path>
+                        <circle id="Oval" fill="#535050" opacity="0.502296598" cx="13.5" cy="29.8839932" r="2.5"></circle>
+                        <circle id="Oval-Copy" fill="#535050" opacity="0.502296598" cx="26.9904215" cy="29.8839932" r="2.5"></circle>
+                        <path d="M0.651038701,0.263229385 L6.39345223,0.263229385 L29.8273103,0.263229385 C32.5696898,0.263229385 34.7928276,2.48636718 34.7928276,5.22874663 C34.7928276,5.5943489 34.75245,5.95883294 34.672429,6.31557048 L31.9147339,18.6095225 C31.4061516,20.8768097 29.3932432,22.4882159 27.0696152,22.4882159 L13.6646146,22.4882159 C11.1672828,22.4882159 9.05850596,20.6334527 8.73971942,18.1565512 L6.80605913,3.13243474 C6.5949015,1.49178623 5.19809124,0.263229385 3.54391016,0.263229385" id="Path" stroke="#535050" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

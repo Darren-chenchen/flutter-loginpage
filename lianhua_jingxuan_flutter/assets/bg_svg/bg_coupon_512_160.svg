@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="160px" viewBox="0 0 512 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_coupon_512_160</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M266,0 C266,8.836556 273.163444,16 282,16 C290.836556,16 298,8.836556 298,0 L334,0 C338.418278,-8.11624501e-16 342,3.581722 342,8 L342,152 C342,156.418278 338.418278,160 334,160 L298,160 L298,160 C298,151.163444 290.836556,144 282,144 C273.163444,144 266,151.163444 266,160 L0,160 L0,0 L266,0 L266,0 Z" id="path-1"></path>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9548142%" id="linearGradient-3">
+            <stop stop-color="#55C6FF" offset="0%"></stop>
+            <stop stop-color="#0065FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="背景" transform="translate(-955.000000, -2365.000000)">
+            <g id="bg_coupon_512_160" transform="translate(955.000000, 2365.000000)">
+                <g>
+                    <g id="矩形" transform="translate(170.000000, 0.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="蒙版" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <rect fill="#EED19C" mask="url(#mask-2)" x="282" y="0" width="60" height="160"></rect>
+                    </g>
+                    <path d="M8,0 L176,0 L176,0 L176,160 L8,160 C3.581722,160 5.41083001e-16,156.418278 0,152 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z" id="形状结合" fill="url(#linearGradient-3)"></path>
+                    <g id="编组-4" transform="translate(172.000000, 0.000000)" fill="#FFFFFF">
+                        <circle id="椭圆形" cx="4" cy="4" r="4"></circle>
+                        <circle id="椭圆形备份-6" cx="4" cy="52" r="4"></circle>
+                        <circle id="椭圆形备份-12" cx="4" cy="100" r="4"></circle>
+                        <circle id="椭圆形备份-3" cx="4" cy="28" r="4"></circle>
+                        <circle id="椭圆形备份-7" cx="4" cy="76" r="4"></circle>
+                        <circle id="椭圆形备份-13" cx="4" cy="124" r="4"></circle>
+                        <circle id="椭圆形备份" cx="4" cy="12" r="4"></circle>
+                        <circle id="椭圆形备份-8" cx="4" cy="60" r="4"></circle>
+                        <circle id="椭圆形备份-14" cx="4" cy="108" r="4"></circle>
+                        <circle id="椭圆形备份-4" cx="4" cy="36" r="4"></circle>
+                        <circle id="椭圆形备份-9" cx="4" cy="84" r="4"></circle>
+                        <circle id="椭圆形备份-15" cx="4" cy="132" r="4"></circle>
+                        <circle id="椭圆形备份-18" cx="4" cy="148" r="4"></circle>
+                        <circle id="椭圆形备份-2" cx="4" cy="20" r="4"></circle>
+                        <circle id="椭圆形备份-10" cx="4" cy="68" r="4"></circle>
+                        <circle id="椭圆形备份-16" cx="4" cy="116" r="4"></circle>
+                        <circle id="椭圆形备份-5" cx="4" cy="44" r="4"></circle>
+                        <circle id="椭圆形备份-11" cx="4" cy="92" r="4"></circle>
+                        <circle id="椭圆形备份-17" cx="4" cy="140" r="4"></circle>
+                        <circle id="椭圆形备份-19" cx="4" cy="156" r="4"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_toast_succeed_line</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-263.000000, -1265.000000)">
+            <g id="ic_toast_succeed_line" transform="translate(263.000000, 1265.000000)">
+                <g id="cutting/ic_succeed_line">
+                    <g>
+                        <circle id="Oval" stroke="#FFFFFF" stroke-width="3" cx="48" cy="48" r="46.5"></circle>
+                        <path d="M72.3804653,31.4393398 C72.9662518,32.0251263 72.9662518,32.9748737 72.3804653,33.5606602 L40.5606602,65.3804653 C40.3223004,65.6188251 40.0236788,65.760195 39.7138371,65.8045749 C39.2196588,65.9278025 38.674952,65.7962724 38.2885822,65.4099026 L23.4393398,50.5606602 C22.8535534,49.9748737 22.8535534,49.0251263 23.4393398,48.4393398 C24.0251263,47.8535534 24.9748737,47.8535534 25.5606602,48.4393398 L39.41,62.289 L70.259145,31.4393398 C70.8449314,30.8535534 71.7946789,30.8535534 72.3804653,31.4393398 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

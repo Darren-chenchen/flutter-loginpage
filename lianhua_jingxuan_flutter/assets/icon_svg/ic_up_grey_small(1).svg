@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_up_grey_small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-445.000000, -113.000000)">
+            <g id="ic_up_grey_small" transform="translate(445.000000, 113.000000)">
+                <g id="cutting/ic_up_grey_small">
+                    <g id="cutting/ic_down_grey_small">
+                        <path d="M12.0003117,2 C17.5232124,2 22,6.47738958 22,12.0003117 C22,17.5232339 17.5232124,22 12.0003117,22 C6.47743257,22 2,17.5231909 2,12.0003117 C2,6.47743257 6.47741107,2 12.0003117,2 Z M11.9998604,9 C11.8449741,9 11.6975874,9.08014131 11.5953454,9.21994701 L11.5953454,9.21994701 L8.17328917,13.7165388 C8.00623654,13.9297035 7.95460674,14.2375977 8.04189347,14.5116656 C8.12824788,14.785717 8.33754796,14.9751771 8.58062626,15 L8.58062626,15 L15.4218866,15 C15.6640206,14.9740601 15.8724168,14.7834793 15.9587581,14.5105308 C16.0450992,14.2375824 15.9934695,13.9285689 15.8264029,13.716541 L15.8264029,13.716541 L12.4043753,9.21994704 C12.3021346,9.08014043 12.1547472,9 11.9998604,9 Z" id="形状" fill="#EBEBEE" fill-rule="nonzero"></path>
+                        <rect id="cutting/ic_right_grey" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

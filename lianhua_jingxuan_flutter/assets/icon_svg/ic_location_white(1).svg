@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_location_white</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M15.8100075,35.6966045 C25.2700025,27.5509135 30,20.7432474 30,15.2736062 C30,6.83822643 23.2842712,0 15,0 C6.71572875,0 0,6.83822643 0,15.2736062 C0,20.7432511 4.73000398,27.5509228 14.1900119,35.6966212 L14.1900262,35.6966047 C14.6556113,36.0975046 15.3444224,36.0975045 15.8100075,35.6966045 Z" id="path-1"></path>
+        <filter x="-23.3%" y="-13.9%" width="146.7%" height="138.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16168597 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="14.8965517" cy="14.8965517" r="4.96551724"></circle>
+        <filter x="-70.5%" y="-50.3%" width="241.0%" height="241.0%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.396078431   0 0 0 0 1  0 0 0 0.398027753 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-721.000000, -526.000000)">
+            <g id="ic_location_white" transform="translate(721.000000, 526.000000)">
+                <g id="cutting/ic_location_white">
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(9.000000, 6.000000)">
+                        <g id="Oval-6">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <g id="Oval-5" opacity="0.898181734">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#0065FF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                    </g>
+                    <rect id="cutting/ic_location" x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

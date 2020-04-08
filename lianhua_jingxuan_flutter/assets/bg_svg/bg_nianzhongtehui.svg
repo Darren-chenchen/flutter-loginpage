@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="124px" height="44px" viewBox="0 0 124 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_nianzhongtehui</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE6248" offset="0%"></stop>
+            <stop stop-color="#FE4954" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="背景" transform="translate(-110.000000, -994.000000)" fill="url(#linearGradient-1)">
+            <g id="bg_nianzhongtehui" transform="translate(110.000000, 994.000000)">
+                <path d="M0,0 L117.853458,0 C120.062597,-1.40274103e-14 121.853458,1.790861 121.853458,4 C121.853458,4.55796947 121.736723,5.10976717 121.510755,5.61993216 L114,22.5768516 L114,22.5768516 L121.343111,38.3081065 C122.277518,40.3099004 121.41223,42.6901615 119.410436,43.6245685 C118.880683,43.8718487 118.303166,44 117.718542,44 L0,44 L0,44 L0,0 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

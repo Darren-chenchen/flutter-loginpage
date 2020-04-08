@@ -1,0 +1,167 @@
+
+fastlane_version "2.19.3"
+
+default_platform :ios
+
+platform :ios do
+  before_all do
+    # ENV["SLACK_URL"] = "https://hooks.slack.com/services/..."
+    cocoapods(use_bundle_exec: false)
+    unlock_keychain(path: "login.keychain-db",
+                    password:"123456")
+  end
+
+
+  desc "Deploy a new version to the App Store"
+  lane :release do
+    #match(type: "debug")
+    # snapshot
+    #match(git_url: "http://github.app.hd123.cn:10080/qianfan/ios-cert.git",type: "enterprise")
+    update_info_plist(
+      plist_path: "Runner/Info.plist",
+      display_name: ENV["APP_NAME"],
+    )
+
+    update_app_identifier(
+      xcodeproj: "Runner.xcodeproj", 
+      plist_path: "Runner/Info.plist",
+      app_identifier: ENV["APP_ID"] 
+    )
+
+    ENV.each_pair do |k, v|
+      begin
+        hd_update_info_plist(path: "Runner/Info.plist", key: k, value: v)
+      rescue => ex
+        UI.error("#{k} this key and vulue #{v} error")
+      end
+    end
+
+        
+    #更新版本号
+    increment_build_number(build_number: number_of_commits)
+    #更新版本名称
+    increment_version_number(
+      version_number: last_git_tag # Set a specific version number
+    )
+
+    enable_automatic_code_signing
+
+    match(
+      readonly: true,
+      type:"enterprise",
+      app_identifier: ENV["APP_ID"]  
+    )
+    gym(
+      scheme: "lianhua-jingxuan-iOS",
+      export_method: "enterprise",
+      output_directory: "build",
+      output_name: "lianhua-jingxuan-iOS_#{ENV["APP_ID"]}_#{last_git_tag}_#{number_of_commits}.ipa",
+      include_bitcode: false,
+      export_xcargs: "-allowProvisioningUpdates"
+    )
+  end
+
+  desc "Deploy a new version to the App Store"
+  lane :releaseAppstore do
+
+    update_info_plist(
+      plist_path: "Runner/Info.plist",
+      display_name: ENV["APP_NAME"],
+    )
+
+    update_info_plist(
+      plist_path: "Runner/Info.plist",
+      block: lambda { |plist|
+        urlScheme = plist["CFBundleURLTypes"].find{|scheme| scheme["CFBundleURLName"] == "weixin"}
+        urlScheme[:CFBundleURLSchemes] = [ENV["WX_APP_ID"]]
+      }
+    )
+
+    update_app_identifier(
+      xcodeproj: "Runner.xcodeproj", 
+      plist_path: "Runner/Info.plist", # Path to info plist file, relative to xcodeproj
+      app_identifier: ENV["APP_ID"] # The App Identifier
+    )
+
+    ENV.each_pair do |k, v|
+      begin
+        hd_update_info_plist(path: "Runner/Info.plist", key: k, value: v)
+      rescue => ex
+        UI.error("#{k} this key and vulue #{v} error")
+      end
+    end
+    
+    #更新版本号
+    increment_build_number(build_number: number_of_commits)
+    #更新版本名称
+    increment_version_number(
+      version_number: last_git_tag # Set a specific version number
+    )
+
+    #导出版本号 给deliver文件使用
+    sh ("export APP_DEPLOY_VERSION=#{last_git_tag}")
+
+    enable_automatic_code_signing
+
+    update_project_team(
+      path: "Runner.xcodeproj",
+      teamid: "D3N74E577C"
+    )
+
+    match(
+      type:"appstore",
+      app_identifier: ENV["APP_ID"],
+      readonly:true
+    )
+    
+    clear_derived_data
+
+    
+
+    gym(
+      scheme: "lianhua-jingxuan-iOS",
+      export_method: "app-store",
+      silent: true,
+      clean: true,
+      configuration: "Release",
+      export_team_id:"D3N74E577C",
+      output_directory: "build",
+      output_name: "lianhua-jingxuan-iOS_#{ENV["APP_ID"]}_#{last_git_tag}_#{number_of_commits}.ipa",
+      include_bitcode: false,
+      export_options: {
+        provisioningProfiles: { 
+            "#{ENV["APP_ID"]}" => "match AppStore #{ENV["APP_ID"]}"
+        }
+    }
+    )
+
+    deliver(
+      force: true,
+      submit_for_review: true
+    )
+  end
+
+  # You can define as many lanes as you want
+
+  after_all do |lane|
+    # This block is called, only if the executed lane was successful
+
+    # slack(
+    #   message: "Successfully deployed new App Update."
+    # )
+  end
+
+  error do |lane, exception|
+    # slack(
+    #   message: exception.message,
+    #   success: false
+    # )
+  end
+end
+
+
+# More information about multiple platforms in fastlane: https://github.com/fastlane/fastlane/blob/master/fastlane/docs/Platforms.md
+# All available actions: https://docs.fastlane.tools/actions
+
+# fastlane reports which actions are used
+# No personal data is recorded. Learn more at https://github.com/fastlane/enhancer

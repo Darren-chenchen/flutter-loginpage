@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-265.000000, -1124.000000)">
+            <g id="ic_white" transform="translate(265.000000, 1124.000000)">
+                <g id="cutting/ic_white">
+                    <g id="ic_clear">
+                        <rect id="bounds" x="0" y="0" width="88" height="88"></rect>
+                        <circle id="Combined-Shape" stroke="#FFFFFF" stroke-width="4" cx="44" cy="44" r="30"></circle>
+                        <path d="M26.5288082,44.91945 C26.5288082,43.8148805 27.4187008,42.91945 28.5285155,42.91945 L60.5291009,42.91945 C61.6335087,42.91945 62.5288082,43.8071796 62.5288082,44.91945 L62.5288082,44.91945 C62.5288082,46.0240195 61.6389156,46.91945 60.5291009,46.91945 L28.5285155,46.91945 C27.4241076,46.91945 26.5288082,46.0317203 26.5288082,44.91945 L26.5288082,44.91945 Z" id="Rectangle-" fill="#FFFFFF" transform="translate(44.528808, 44.919450) rotate(-135.000000) translate(-44.528808, -44.919450) "></path>
+                        <path d="M25.91945,44.5288082 C25.91945,43.4242387 26.8093425,42.5288082 27.9191572,42.5288082 L59.9197427,42.5288082 C61.0241505,42.5288082 61.91945,43.4165378 61.91945,44.5288082 L61.91945,44.5288082 C61.91945,45.6333777 61.0295574,46.5288082 59.9197427,46.5288082 L27.9191572,46.5288082 C26.8147494,46.5288082 25.91945,45.6410785 25.91945,44.5288082 L25.91945,44.5288082 Z" id="Rectangle-47" fill="#FFFFFF" transform="translate(43.919450, 44.528808) rotate(-225.000000) translate(-43.919450, -44.528808) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

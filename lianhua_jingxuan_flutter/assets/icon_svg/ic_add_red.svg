@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_add_red</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18,8 C18.8284271,8 19.5,8.67157288 19.5,9.5 L19.5,16.5 L26.5,16.5 C27.3284271,16.5 28,17.1715729 28,18 C28,18.8284271 27.3284271,19.5 26.5,19.5 L19.5,19.5 L19.5,26.5 C19.5,27.3284271 18.8284271,28 18,28 C17.1715729,28 16.5,27.3284271 16.5,26.5 L16.5,19.5 L9.5,19.5 C8.67157288,19.5 8,18.8284271 8,18 C8,17.1715729 8.67157288,16.5 9.5,16.5 L16.5,16.5 L16.5,9.5 C16.5,8.67157288 17.1715729,8 18,8 Z" id="path-1"></path>
+        <filter x="-35.0%" y="-25.0%" width="170.0%" height="170.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.195858829 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-326.000000, -332.000000)">
+            <g id="ic_add_red" transform="translate(326.000000, 332.000000)">
+                <g id="cutting/ic_add_red">
+                    <g id="cutting/ic_add">
+                        <circle id="椭圆形" fill="#FF5230" cx="18" cy="18" r="18"></circle>
+                        <g id="形状结合">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

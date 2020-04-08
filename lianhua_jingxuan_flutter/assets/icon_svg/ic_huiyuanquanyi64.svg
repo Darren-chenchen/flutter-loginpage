@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_huiyuanquanyi64</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FEB910" offset="0%"></stop>
+            <stop stop-color="#FF8400" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0.194058157,13.9170856 C0.685733899,12.4491333 1.97937681,11.457771 3.55756487,11.3546369 C4.99371484,11.2515377 6.42961863,12.0884905 7.10223322,13.4020332 C7.78797885,14.7412136 7.59390896,16.324798 6.59766091,17.4964992 C6.48145111,17.625271 6.36497164,17.7540428 6.23559567,17.9086858 C9.01693964,19.6082406 11.7854105,21.2821578 14.5407855,22.9688413 C15.5885729,23.6126655 16.6366535,24.2565013 17.6844643,24.8746295 C18.2794885,25.2222026 18.7451484,25.1193368 19.0685825,24.5399277 C22.2380545,18.7971939 25.4074914,13.0413904 28.602991,7.23427654 C27.2186032,6.53893199 26.3259614,5.47032991 26.2484062,3.88647721 C26.1965854,2.77920279 26.5846783,1.82630285 27.374042,1.05374184 C28.9392983,-0.465754153 31.5136524,-0.323912582 32.8846747,1.36277088 C34.4633318,3.29423171 33.8938897,5.54755799 31.3843467,7.24711283 C32.199527,8.74070276 33.0272521,10.2345261 33.8549656,11.7281277 C36.1577062,15.9000784 38.4474213,20.0589245 40.7502792,24.2308402 C41.2809144,25.1965649 41.6169285,25.286571 42.5614145,24.7202549 C46.1189794,22.5569231 49.6764388,20.3808249 53.2341209,18.2177848 C53.4023625,18.1146622 53.5574731,18.0115631 53.7515078,17.895861 C53.0142931,17.161774 52.5482581,16.3376809 52.496789,15.3206343 C52.3931475,13.4148462 53.7125836,11.7409406 55.5626548,11.4318765 C57.490457,11.0971398 59.2753302,12.1916362 59.8448895,14.0458456 C59.8838137,14.1874188 59.948531,14.34184 60,14.4836465 L60,15.7713065 C59.3921027,17.7027324 58.1499406,18.8228431 56.0154415,18.8356561 C55.9381794,19.0547141 55.860331,19.2735154 55.7956137,19.4923167 C53.7125836,26.5998685 51.6301515,33.7204668 49.5471214,40.8280421 C49.2758246,41.7555261 48.9523669,42 48.0078576,42 C36.0157268,42 24.0362816,42 12.0441743,42 C11.0350179,42 10.7245038,41.768129 10.4528552,40.8280421 C8.75822288,35.059869 7.07645193,29.2781594 5.38185474,23.5098462 C4.92906798,21.9518646 4.46315018,20.3936261 3.99750204,18.8228431 C2.40641741,18.8228431 1.2032029,18.1918553 0.452798552,16.8270255 C0.271894896,16.4923238 0.155391968,16.1188679 0.0131780235,15.7582251 C0,15.3075181 0,14.8827869 0,14.4577523 C0.0646587164,14.277425 0.129376035,14.0973778 0.194058157,13.9170856 Z" id="path-2"></path>
+        <filter x="-11.7%" y="-11.9%" width="123.3%" height="133.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.655594406   0 0 0 0 0  0 0 0 0.198289991 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-4" points="32.3529412 38.1851374 27.7058824 38.1851374 22.5 26.7305919 26.8823529 26.7305919 30.0882353 33.3404038 30.1470588 33.3404038 33.3529412 26.7305919 37.5 26.7305919"></polygon>
+        <filter x="-46.7%" y="-43.7%" width="193.3%" height="222.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1194.000000, -719.000000)">
+            <g id="ic_huiyuanquanyi64" transform="translate(1194.000000, 719.000000)">
+                <g id="cutting/ic_huiyuanquanyi64">
+                    <g id="ic_member" stroke-width="1" fill-rule="evenodd" transform="translate(32.000000, 32.000000) rotate(-360.000000) translate(-32.000000, -32.000000) translate(2.000000, 11.000000)">
+                        <g id="形状结合" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        </g>
+                        <g id="v" fill-rule="nonzero">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                        </g>
+                    </g>
+                    <rect id="cutting/ic_huiyuanquanyi" x="0" y="0" width="64" height="64"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

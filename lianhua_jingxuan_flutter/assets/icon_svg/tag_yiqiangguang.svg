@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>tag_yiqiangguang</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="50" cy="50" r="50"></circle>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-972.000000, -1492.000000)">
+            <g id="tag_yiqiangguang" transform="translate(972.000000, 1492.000000)">
+                <g id="tag/失效">
+                    <g>
+                        <g id="矩形">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="蒙版" fill-opacity="0.5" fill="#000000" xlink:href="#path-1"></use>
+                            <rect fill="#FFFFFF" opacity="0.301850818" mask="url(#mask-2)" transform="translate(50.146447, 50.146447) rotate(45.000000) translate(-50.146447, -50.146447) " x="-0.853553391" y="49.6464466" width="102" height="1"></rect>
+                        </g>
+                        <text id="已抢光" font-family="PingFangSC-Regular, PingFang SC" font-size="24" font-weight="normal" fill="#FFFFFF">
+                            <tspan x="14" y="59">已抢光</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

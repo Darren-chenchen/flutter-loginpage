@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="520px" height="520px" viewBox="0 0 520 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>img_samakuang</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img" transform="translate(-171.000000, -2918.000000)">
+            <g id="img_samakuang" transform="translate(171.000000, 2918.000000)">
+                <g>
+                    <rect id="二维码边框" stroke="#FFFFFF" x="0.5" y="0.5" width="519" height="519"></rect>
+                    <path d="M8,487 L8,512 L33,512 L33,520 L0,520 L0,487 L8,487 Z M487,520 L487,512 L512,512 L512,487 L520,487 L520,520 L487,520 Z M33,-1.01033361e-15 L33,8 L8,8 L8,33 L0,33 L0,0 L33,-1.01033361e-15 Z M520,1.01033361e-15 L520,33 L512,33 L512,8 L487,8 L487,-1.01033361e-15 L520,1.01033361e-15 Z" id="二维码角标" fill="#0065FF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

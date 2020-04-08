@@ -1,0 +1,4 @@
+enum PackageType{
+	NORMAL,
+	NONE
+}

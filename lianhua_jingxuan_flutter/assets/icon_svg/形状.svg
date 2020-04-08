@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="35px" viewBox="0 0 35 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>形状</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#E6E6EF" offset="0%"></stop>
+            <stop stop-color="#A8A8B6" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-574.000000, -533.000000)" fill="url(#linearGradient-1)" fill-rule="nonzero">
+            <g id="ic_fujin" transform="translate(567.000000, 526.000000)">
+                <g id="编组">
+                    <g transform="translate(7.000000, 7.000000)">
+                        <path d="M33.6654929,10.9204975 C34.5123121,13.0062912 34.9462267,15.2366242 34.9431824,17.4877636 C34.9498206,22.1183871 33.1101753,26.5606108 29.8316058,29.8307331 C26.5618461,33.1099502 22.1194621,34.949976 17.4886364,34.9431832 C12.8578106,34.949976 8.41542664,33.1099502 5.14566689,29.8307331 C1.86717927,26.560556 0.0275486938,22.118368 0.0340908811,17.4877636 C0.0281883505,12.8583113 1.86779218,8.41744421 5.14566689,5.14828507 C8.41508484,1.86834582 12.85754,0.0276622888 17.4886364,0.034089087 C22.1195622,0.0272196858 26.5621428,1.86688276 29.8324786,5.14566689 C31.4859624,6.79271964 32.7899659,8.75659101 33.6663656,10.9196248 L33.6654929,10.9204975 Z" id="形状"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

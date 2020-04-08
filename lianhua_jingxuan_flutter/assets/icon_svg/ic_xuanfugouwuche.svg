@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_xuanfugouwuche</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9548142%" id="linearGradient-1">
+            <stop stop-color="#55C6FF" offset="0%"></stop>
+            <stop stop-color="#0065FF" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="22.7142857" cy="13" r="4"></circle>
+        <filter x="-87.5%" y="-62.5%" width="275.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.298623252 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-259.000000, -967.000000)">
+            <g id="ic_xuanfugouwuche" transform="translate(259.000000, 967.000000)">
+                <g id="cutting/ic_xuanfugouwuche">
+                    <g id="cutting/ic_top">
+                        <circle id="椭圆形" stroke-opacity="0.0755845717" stroke="#000000" stroke-width="2" fill-opacity="0.901524257" fill="#FFFFFF" cx="40" cy="40" r="39"></circle>
+                        <g id="Group" transform="translate(20.000000, 22.000000)">
+                            <path d="M15.4285714,28.5740741 C17.6377104,28.5740741 19.4285714,30.3649351 19.4285714,32.5740741 C19.4285714,34.7832131 17.6377104,36.5740741 15.4285714,36.5740741 C13.2194324,36.5740741 11.4285714,34.7832131 11.4285714,32.5740741 C11.4285714,30.3649351 13.2194324,28.5740741 15.4285714,28.5740741 Z M30.6666667,28.5740741 C32.8758057,28.5740741 34.6666667,30.3649351 34.6666667,32.5740741 C34.6666667,34.7832131 32.8758057,36.5740741 30.6666667,36.5740741 C28.4575277,36.5740741 26.6666667,34.7832131 26.6666667,32.5740741 C26.6666667,30.3649351 28.4575277,28.5740741 30.6666667,28.5740741 Z M38.0937052,1.0125234e-13 C39.1456761,1.01281141e-13 39.9984671,0.852790953 39.9984671,1.9047619 C39.9984671,2.0094597 39.9898348,2.11397926 39.972658,2.21725843 L36.5022793,23.0836605 C36.3494782,24.00241 35.5546957,24.6759259 34.6233264,24.6759259 L11.4323789,24.6759259 C10.5010096,24.6759259 9.70622706,24.00241 9.55342599,23.0836605 L6.345,3.796 L1.89814815,3.7962963 C0.849829873,3.7962963 -1.25842044e-12,2.94646642 -1.25854882e-12,1.89814815 C-1.2586772e-12,0.849829873 0.849829873,1.01222868e-13 1.89814815,1.01474384e-13 L38.0937052,1.0125234e-13 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                            <g id="Oval-Copy-2">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

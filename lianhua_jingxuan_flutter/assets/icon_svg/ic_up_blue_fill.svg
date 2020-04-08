@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>hdpi/cutting/ic_up_blue_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="cutting/ic_up_blue_fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M15.3445082,20.4176574 L8.47365558,12.6631757 C8.10739374,12.2498106 8.14557849,11.6177981 8.55894359,11.2515363 C8.7418433,11.0894781 8.97775249,11 9.22211932,11 L22.5545127,11 C23.1067974,11 23.5545127,11.4477153 23.5545127,12 C23.5545127,12.2339227 23.4725061,12.4604432 23.3227596,12.6401536 L16.8612189,20.3946352 C16.5076718,20.8189263 15.8771094,20.8762757 15.4528183,20.5227286 C15.4141201,20.4904828 15.3779137,20.455359 15.3445082,20.4176574 Z" id="Path-19" fill="#0065FF" transform="translate(15.844721, 16.144330) scale(1, -1) translate(-15.844721, -16.144330) "></path>
+        <rect id="cutting/ic_up_blue" x="0" y="0" width="32" height="32"></rect>
+    </g>
+</svg>

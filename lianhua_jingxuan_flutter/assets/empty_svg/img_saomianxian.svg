@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="520px" height="4px" viewBox="0 0 520 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>img_saomianxian</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#0065FF" stop-opacity="0.804141171" offset="13.9833193%"></stop>
+            <stop stop-color="#66CCFF" offset="47.3236909%"></stop>
+            <stop stop-color="#0065FF" stop-opacity="0.800590035" offset="87.00644%"></stop>
+            <stop stop-color="#D8D8D8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img" transform="translate(-846.000000, -2951.000000)" fill="url(#linearGradient-1)">
+            <g id="img_saomianxian" transform="translate(846.000000, 2951.000000)">
+                <rect x="0" y="0" width="520" height="4" rx="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

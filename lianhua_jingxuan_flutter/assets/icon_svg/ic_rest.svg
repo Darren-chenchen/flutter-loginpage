@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_rest</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1448.000000, -261.000000)">
+            <g id="ic_rest" transform="translate(1448.000000, 261.000000)">
+                <g id="cutting/ic_rest">
+                    <g id="编组-3" stroke-width="1" fill-rule="evenodd" transform="translate(4.000000, 4.000000)" stroke="#A8A8B6">
+                        <path d="M10.3944294,0 C9.08194493,1.52594401 8.6959768,2.67273562 9.23652498,3.44037483 C10.0473473,4.59183365 10.4432518,4.80824191 10.2452995,5.84332229 C10.1133313,6.53337588 9.7225974,7.11439181 9.07309767,7.58637008" id="路径-3" stroke-width="2" opacity="0.504185268" stroke-linecap="round"></path>
+                        <path d="M16.0903441,0 C14.7778597,1.52594401 14.3918915,2.67273562 14.9324397,3.44037483 C15.743262,4.59183365 16.1391665,4.80824191 15.9412142,5.84332229 C15.8092461,6.53337588 15.4185121,7.11439181 14.7690124,7.58637008" id="路径-3" stroke-width="2" opacity="0.504185268" stroke-linecap="round"></path>
+                        <path d="M4.39442937,-2.84217094e-14 C3.08194493,1.52594401 2.6959768,2.67273562 3.23652498,3.44037483 C4.04734726,4.59183365 4.44325177,4.80824191 4.24529952,5.84332229 C4.11333134,6.53337588 3.7225974,7.11439181 3.07309767,7.58637008" id="路径-3" stroke-width="2" opacity="0.504185268" stroke-linecap="round"></path>
+                        <path d="M1,11 L1,15.5 C1,20.1944204 4.80557963,24 9.5,24 C14.1944204,24 18,20.1944204 18,15.5 L18,11 L1,11 Z" id="矩形" stroke-width="2"></path>
+                        <path d="M21,18 C22.6568542,18 24,16.6568542 24,15 C24,13.3431458 22.6568542,12 21,12 C19.3431458,12 18,13.3431458 18,15" id="路径" stroke-width="2" stroke-linecap="round"></path>
+                    </g>
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

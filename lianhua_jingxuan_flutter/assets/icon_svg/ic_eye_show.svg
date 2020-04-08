@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_eye_show</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-723.000000, -426.000000)">
+            <g id="ic_eye_show" transform="translate(723.000000, 426.000000)">
+                <g id="cutting/ic_eye_show">
+                    <path d="M22,11 C32.4934102,11 41,15.9248678 41,22 C41,28.0751322 32.4934102,33 22,33 C11.5065898,33 3,28.0751322 3,22 C3,15.9248678 11.5065898,11 22,11 Z M22,14 C13.163444,14 6,17.581722 6,22 C6,26.418278 13.163444,30 22,30 C30.836556,30 38,26.418278 38,22 C38,17.581722 30.836556,14 22,14 Z" id="Combined-Shape" fill="#A8A8B6" fill-rule="evenodd"></path>
+                    <circle id="Oval" fill="#A8A8B6" fill-rule="evenodd" opacity="0.500511533" cx="22" cy="22" r="5"></circle>
+                    <rect x="0" y="0" width="44" height="44"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

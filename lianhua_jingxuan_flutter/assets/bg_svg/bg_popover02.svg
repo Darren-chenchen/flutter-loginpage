@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="464px" height="132px" viewBox="0 0 464 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_popover02</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.6">
+        <g id="背景" transform="translate(-119.000000, -604.000000)" fill="#000000">
+            <g id="bg_popover02" transform="translate(119.000000, 604.000000)">
+                <path d="M31.2917829,0.294929014 C31.681693,-0.0962084871 32.3148572,-0.097203477 32.7059947,0.292706641 C32.7067367,0.293446268 32.7074775,0.294187059 32.7082171,0.294929014 L42,9.61596115 L456,9.61596115 C460.418278,9.61596115 464,13.1976831 464,17.6159611 L464,124 C464,128.418278 460.418278,132 456,132 L8,132 C3.581722,132 5.41083001e-16,128.418278 0,124 L0,17.6159611 C-5.41083001e-16,13.1976831 3.581722,9.61596115 8,9.61596115 L22,9.61596115 L31.2917829,0.294929014 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

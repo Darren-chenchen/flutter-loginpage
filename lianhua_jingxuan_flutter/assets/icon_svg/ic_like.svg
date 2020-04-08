@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_like</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FE6248" offset="0%"></stop>
+            <stop stop-color="#FE4954" offset="100%"></stop>
+        </linearGradient>
+        <path d="M16.0002964,27 C15.8398047,27 15.6845289,26.9453245 15.5623789,26.8454479 L5.91604159,18.9655783 C5.90231154,18.9543939 5.88906178,18.9426779 5.87632521,18.9304593 L5.19595996,18.2778439 C3.77980438,16.9192947 3,15.1132987 3,13.1921352 C3,11.2709718 3.77995258,9.46497579 5.19595996,8.10656879 C6.61167096,6.74816178 8.49404938,6 10.4964661,6 C12.4988828,6 14.3814095,6.74816178 15.7972686,8.10656879 L16.0001482,8.30121597 L16.2028796,8.10671097 C17.6185905,6.74816178 19.5011172,6 21.5038303,6 C23.506247,6 25.3887736,6.74816178 26.804781,8.10656879 C28.220492,9.46497579 29,11.2709718 29,13.191993 C29,15.1130143 28.2203438,16.9191525 26.804781,18.2775595 L26.123823,18.9304593 C26.1111387,18.9426335 26.0979381,18.9543022 26.0842548,18.9654361 L16.4382139,26.8453057 C16.3160848,26.9452337 16.1608069,27 16.0002964,27 Z" id="path-2"></path>
+        <filter x="-19.2%" y="-19.0%" width="138.5%" height="147.6%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.321568627   0 0 0 0 0.188235294  0 0 0 0.398983829 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1920.000000, -261.000000)">
+            <g id="ic_like" transform="translate(1920.000000, 261.000000)">
+                <g id="cutting/ic_like">
+                    <g fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    </g>
+                    <rect x="0" y="0" width="32" height="32"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

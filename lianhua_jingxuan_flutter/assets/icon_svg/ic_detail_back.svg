@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_detail_back</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-353.000000, -719.000000)">
+            <g id="ic_detail_back" transform="translate(353.000000, 719.000000)">
+                <g id="cutting/ic_detail_back">
+                    <g>
+                        <circle id="椭圆形" fill-opacity="0.5" fill="#000000" cx="32" cy="32" r="32"></circle>
+                        <g id="cutting/ic_back_white" transform="translate(8.000000, 8.000000)">
+                            <g>
+                                <path d="M34,7 C34,7 27.3333333,13 14,25 L34,42" id="Path-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                                <rect id="Rectangle-23" x="0" y="0" width="48" height="48"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

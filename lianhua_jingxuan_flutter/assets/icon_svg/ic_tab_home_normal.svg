@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_tab_home_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="26" cy="21" r="4"></circle>
+        <filter x="-87.5%" y="-62.5%" width="275.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.202961101 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-762.000000, -621.000000)">
+            <g id="ic_tab_home_normal" transform="translate(762.000000, 621.000000)">
+                <g id="cutting/ic_tab_home_normal">
+                    <path d="M23.0968942,7.90454627 L10.3596436,16.3046022 C8.88651742,17.2761103 8,18.9227014 8,20.6873342 L8,40.2145831 C8,43.4097806 10.5902194,46 13.7854169,46 L16.9458339,46 C18.3955814,46 19.5708339,44.8247475 19.5708339,43.375 L19.5708339,36.1637696 C19.5708339,34.7140222 20.7460864,33.5387696 22.1958339,33.5387696 L29.7938087,33.5387696 C31.2435561,33.5387696 32.4188087,34.7140222 32.4188087,36.1637696 L32.4188087,43.375 C32.4188087,44.8247475 33.5940612,46 35.0438087,46 L38.2094043,46 C41.407462,46 44,43.407462 44,40.2094043 L44,20.6899597 C44,18.923884 43.1120419,17.2761475 41.6369578,16.3049882 L28.8742084,7.9023068 C27.1211291,6.74812236 24.8490782,6.74900308 23.0968942,7.90454627 Z" id="Path-17" fill="#A8A8B6" fill-rule="evenodd"></path>
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect x="0" y="0" width="52" height="52"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

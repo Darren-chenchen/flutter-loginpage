@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_jujue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.0275029,12.1837275 L10.0822559,8.22039676 C9.97249707,8.11013486 9.86324409,8.05525798 9.64372648,8.05525798 C9.47934119,8.05525798 9.37008821,8.11013486 9.20570291,8.22039676 L8.16425884,9.26610633 C7.94524705,9.48612199 7.94524705,9.87178457 8.16425884,10.0369233 L12.1095059,14.0002541 L8.16425884,17.9635848 C7.94524705,18.1836005 7.94524705,18.5687549 8.16425884,18.7338937 L9.2603294,19.8349883 C9.47934119,20.0550039 9.86324409,20.0550039 10.0276294,19.8349883 L13.9728764,15.8716575 L17.9181235,19.8349883 C18.1371353,20.0550039 18.5205324,20.0550039 18.6849176,19.8349883 L19.7809882,18.7338937 C20,18.513878 20,18.1287236 19.7809882,17.9635848 L15.8903677,14.0551309 L19.8356147,10.0918002 C19.9453735,9.98153833 20,9.87178457 20,9.65126077 C20,9.48612199 19.9453735,9.37636823 19.8356147,9.21122944 L18.7946765,8.16501175 C18.5756647,7.94499608 18.1917618,7.94499608 18.0273765,8.16501175 L14.0275029,12.1837275 Z" id="path-1"></path>
+        <filter x="-58.3%" y="-41.7%" width="216.7%" height="216.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-408.000000, -179.000000)">
+            <g id="ic_jujue" transform="translate(408.000000, 179.000000)">
+                <g id="cutting/ic_jujue">
+                    <g stroke-width="1" fill-rule="evenodd">
+                        <circle id="椭圆形" fill="#FF5230" cx="14" cy="14" r="14"></circle>
+                        <g id="路径">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                    <rect x="0" y="0" width="28" height="28"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

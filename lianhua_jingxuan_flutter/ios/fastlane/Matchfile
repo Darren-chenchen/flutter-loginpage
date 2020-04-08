@@ -1,0 +1,9 @@
+git_url "http://chenliang:Cl54325000111@github.app.hd123.cn:10080/ios/ios-cert.git"
+
+#type "development" # The default type, can be: appstore, adhoc or development
+
+# app_identifier ["com.qianfan123.ural.appstore"]
+# username "user@fastlane.tools" # Your Apple Developer Portal username
+
+# For all available options run `match --help`
+# Remove the # in the beginning of the line to enable the other options

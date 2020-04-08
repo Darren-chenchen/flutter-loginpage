@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="24px" viewBox="0 0 12 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_yijixuanzhong</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9548142%" id="linearGradient-1">
+            <stop stop-color="#55C6FF" offset="0%"></stop>
+            <stop stop-color="#0065FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img" transform="translate(-862.000000, -78.000000)" fill="url(#linearGradient-1)">
+            <g id="ic_yijixuanzhong" transform="translate(862.000000, 78.000000)">
+                <g>
+                    <path d="M7.41421356,7.41421356 L18,18 L18,18 L-6,18 L4.58578644,7.41421356 C5.36683502,6.63316498 6.63316498,6.63316498 7.41421356,7.41421356 Z" transform="translate(6.000000, 12.000000) rotate(-270.000000) translate(-6.000000, -12.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

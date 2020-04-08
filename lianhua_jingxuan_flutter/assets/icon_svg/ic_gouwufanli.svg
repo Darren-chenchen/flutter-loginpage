@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_gouwufanli</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="88.1682428%" y1="99.8523987%" x2="11.9809333%" y2="0.342443453%" id="linearGradient-1">
+            <stop stop-color="#EED19C" offset="0%"></stop>
+            <stop stop-color="#FFF2D8" stop-opacity="0" offset="99.9313767%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-626.000000, -1265.000000)">
+            <g id="ic_gouwufanli" transform="translate(626.000000, 1265.000000)">
+                <g id="cutting/ic_gouwufanli">
+                    <rect id="矩形" stroke="#EDD9C6" fill="#FFFFFF" x="0.5" y="0.5" width="95" height="95" rx="20"></rect>
+                    <g id="icon" transform="translate(29.000000, 25.000000)">
+                        <path d="M27,14 C30.0133611,14 32.4708265,16.365289 32.595071,19.3295809 C37.5421625,21.4751764 41,26.379764 41,32.0869565 C41,39.7709183 34.7319865,46 27,46 C19.2680135,46 13,39.7709183 13,32.0869565 C13,26.379764 16.4578375,21.4751764 21.4050886,19.3293915 C21.5291735,16.365289 23.9866389,14 27,14 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                        <rect id="矩形" fill="#535050" transform="translate(16.000000, 23.000000) rotate(-315.000000) translate(-16.000000, -23.000000) " x="11" y="22" width="10" height="2" rx="1"></rect>
+                        <path d="M17.6568542,22 L25.6568542,22 C26.209139,22 26.6568542,22.4477153 26.6568542,23 C26.6568542,23.5522847 26.209139,24 25.6568542,24 L17.6568542,24 C17.1045695,24 16.6568542,23.5522847 16.6568542,23 C16.6568542,22.4477153 17.1045695,22 17.6568542,22 Z" id="矩形" fill="#535050" transform="translate(21.656854, 23.000000) scale(-1, 1) rotate(-315.000000) translate(-21.656854, -23.000000) "></path>
+                        <rect id="矩形" fill="#535050" x="13" y="25" width="12" height="2" rx="1"></rect>
+                        <rect id="矩形" fill="#535050" x="13" y="29" width="12" height="2" rx="1"></rect>
+                        <rect id="矩形" fill="#535050" x="18" y="25" width="2" height="11" rx="1"></rect>
+                        <path d="M11.4197965,8.82754212 C4.69878676,11.7205609 0,18.3432959 0,26.0506069 C0,36.4208219 8.50658975,44.8275421 19,44.8275421 L19,44.8275421 C29.4934102,44.8275421 38,36.4208219 38,26.0506069 C38,18.3570127 33.3179233,11.7441375 26.6160687,8.84302377" id="路径" stroke="#535050" stroke-width="2"></path>
+                        <path d="M23.9837313,13.9949429 C25.8219774,12.5562397 27,10.3392459 27,7.85219357 C27,3.51554681 23.418278,0 19,0 C14.581722,0 11,3.51554681 11,7.85219357 C11,10.3421618 12.1807865,12.5614379 14.0227371,14" id="形状" stroke="#535050" stroke-width="2"></path>
+                        <rect id="矩形" fill="#535050" x="9" y="13" width="20" height="2" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

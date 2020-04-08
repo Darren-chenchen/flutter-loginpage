@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="751px" height="1624px" viewBox="0 0 751 1624" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_homepage_blue</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9548142%" id="linearGradient-1">
+            <stop stop-color="#00AAFF" offset="0%"></stop>
+            <stop stop-color="#0065FF" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="750" height="1624"></rect>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="53.1799623%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.104758523" offset="0%"></stop>
+            <stop stop-color="#F6F6F6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M403.992706,308 C425.654862,308 444.3988,320.349959 453.765667,338.418061 C586.064965,346.45407 699.25904,430.714336 750,547.229818 C750.341017,592.916053 750.341017,951.839448 750,1624 L750,1624 L-1.13686838e-13,1624 C0.473028561,931.293339 0.473028561,572.495456 -1.13686838e-13,547.606351 C49.6174393,432.318186 160.805446,348.553793 291.16175,338.77737 C300.467396,320.514214 319.323573,308 341.108172,308 L341.108172,308 Z M367.821552,293.090048 C348.290026,245.112496 316.200346,230.288663 289.695447,221.831082 C273.701285,216.715526 263.879776,210.851604 263.879776,196.417332 C263.879776,182.003563 271.957942,171.516162 286.198624,171.024085 C347.590661,168.912252 373.254296,306.417145 367.821552,293.090048 Z M429.14501,88.7199198 C443.091406,85.4705397 453.627552,93.4863606 457.333018,107.406418 C461.028304,121.336726 453.016761,129.567805 438.815868,138.690671 C415.280052,153.820277 387.947151,176.514685 381.340428,227.971746 C379.497875,242.281319 369.043168,102.742481 429.14501,88.7199198 Z" id="path-5"></path>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="背景" transform="translate(-3517.000000, -277.000000)">
+            <g id="bg_homepage_blue" transform="translate(3517.000000, 277.000000)">
+                <g id="bg/homepage01">
+                    <g id="bg/homepage">
+                        <g id="形状结合">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

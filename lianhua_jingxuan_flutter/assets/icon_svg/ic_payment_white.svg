@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_payment_white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1031.000000, -526.000000)">
+            <g id="编组" transform="translate(1031.000000, 526.000000)">
+                <g id="cutting/ic_payment_white">
+                    <g>
+                        <rect id="Rectangle" fill="#FFFFFF" opacity="0.503396911" x="7" y="23" width="34" height="3" rx="1.5"></rect>
+                        <rect id="矩形" stroke="#FFFFFF" stroke-width="3" x="8.5" y="9.5" width="9" height="9" rx="4"></rect>
+                        <rect id="矩形" stroke="#FFFFFF" stroke-width="3" x="30.5" y="9.5" width="9" height="9" rx="4"></rect>
+                        <path d="M24.0119434,8 C24.8403705,8 25.5119434,8.67157288 25.5119434,9.5 L25.5119434,18.5 C25.5119434,19.3284271 24.8403705,20 24.0119434,20 C23.1835163,20 22.5119434,19.3284271 22.5119434,18.5 L22.5119434,9.5 C22.5119434,8.67157288 23.1835163,8 24.0119434,8 Z" id="矩形" fill="#FFFFFF" opacity="0.503718"></path>
+                        <rect id="矩形" stroke="#FFFFFF" stroke-width="3" x="8.5" y="30.5" width="9" height="9" rx="4"></rect>
+                        <rect id="矩形" stroke="#FFFFFF" stroke-width="3" x="30.5" y="30.5" width="9" height="9" rx="4"></rect>
+                        <rect id="矩形" fill="#FFFFFF" opacity="0.503718" x="22.5119434" y="29" width="3" height="12" rx="1.5"></rect>
+                        <rect id="Rectangle-23" x="0" y="0" width="48" height="48"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

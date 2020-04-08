@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_tab_gouwuche_normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="22.7142857" cy="13" r="4"></circle>
+        <filter x="-87.5%" y="-62.5%" width="275.0%" height="275.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.195394449 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-260.000000, -621.000000)">
+            <g id="ic_tab_gouwuche_normal" transform="translate(260.000000, 621.000000)">
+                <g id="cutting/ic_tab_gouwuche_normal">
+                    <g id="Group" stroke-width="1" fill-rule="evenodd" transform="translate(6.000000, 8.000000)">
+                        <path d="M38.0937052,3.55271368e-15 C39.1456761,3.58151435e-15 39.9984671,0.852790953 39.9984671,1.9047619 C39.9984671,2.0094597 39.9898348,2.11397926 39.972658,2.21725843 L36.5022793,23.0836605 C36.3494782,24.00241 35.5546957,24.6759259 34.6233264,24.6759259 L11.4323789,24.6759259 C10.5010096,24.6759259 9.70622706,24.00241 9.55342599,23.0836605 L6.345,3.796 L1.89814815,3.7962963 C0.849829873,3.7962963 -3.88005587e-13,2.94646642 -3.88133969e-13,1.89814815 C-3.88262351e-13,0.849829873 0.849829873,3.52324202e-15 1.89814815,3.77475828e-15 L38.0937052,3.55271368e-15 Z" id="形状结合" fill="#A8A8B6"></path>
+                        <g id="Oval-Copy-2">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <circle id="Oval" fill="#A8A8B6" opacity="0.503371466" cx="15.4285714" cy="32.5740741" r="4"></circle>
+                        <circle id="Oval-Copy" fill="#A8A8B6" opacity="0.503371466" cx="30.6666667" cy="32.5740741" r="4"></circle>
+                    </g>
+                    <rect id="bounds" x="0" y="0" width="52" height="52"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

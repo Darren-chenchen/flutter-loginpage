@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="108px" height="108px" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_dingdanzhuangtai</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="98.9548142%" id="linearGradient-1">
+            <stop stop-color="#55C6FF" offset="0%"></stop>
+            <stop stop-color="#0065FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M57.5,28 C59.8163788,28 61.7239814,29.7501788 61.9725684,32.000297 L72,32 C74.209139,32 76,33.790861 76,36 L76,76 C76,78.209139 74.209139,80 72,80 L36,80 C33.790861,80 32,78.209139 32,76 L32,36 C32,33.790861 33.790861,32 36,32 L45.0274316,32.000297 C45.2760186,29.7501788 47.1836212,28 49.5,28 L57.5,28 Z" id="path-2"></path>
+        <filter x="-29.5%" y="-21.2%" width="159.1%" height="150.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.396078431   0 0 0 0 1  0 0 0 0.3984375 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M54,46 C59.5228475,46 64,50.4771525 64,56 C64,61.5228475 59.5228475,66 54,66 C48.4771525,66 44,61.5228475 44,56 C44,50.4771525 48.4771525,46 54,46 Z M54,51.3333333 C53.4477153,51.3333333 53,51.7810486 53,52.3333333 L53,52.3333333 L53,57 C53,57.3907067 53.2276105,57.7456117 53.5826667,57.9086667 L53.5826667,57.9086667 L56.388,59.5286667 C56.6975704,59.710151 57.0806495,59.71185 57.3918174,59.5331185 C57.7029854,59.3543871 57.894531,59.0226301 57.8937445,58.663785 C57.8929532,58.3049399 57.6999508,57.9740282 57.388,57.7966667 L57.388,57.7966667 L55,56.418 L55,52.3333333 C55,51.7810486 54.5522847,51.3333333 54,51.3333333 Z" id="path-4"></path>
+        <filter x="-35.0%" y="-25.0%" width="170.0%" height="170.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-263.000000, -1606.000000)">
+            <g id="ic_dingdanzhuangtai" transform="translate(263.000000, 1606.000000)">
+                <g id="cutting/ic_dingdanzhuangtai">
+                    <g id="cutting/ic_tuikuanxiaoxi" stroke-width="1" fill-rule="evenodd" fill="#E6F0FF">
+                        <circle id="椭圆形" cx="54" cy="54" r="54"></circle>
+                    </g>
+                    <g id="订单">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                        <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    </g>
+                    <g id="time" fill-rule="nonzero">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="#FFFFFF" xlink:href="#path-4"></use>
+                    </g>
+                    <rect x="0" y="0" width="108" height="108"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

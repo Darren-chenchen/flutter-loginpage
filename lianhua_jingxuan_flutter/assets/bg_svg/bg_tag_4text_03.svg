@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="28px" viewBox="0 0 92 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>bg_tag_4text_03</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#FEB910" offset="0%"></stop>
+            <stop stop-color="#FF8400" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="背景" transform="translate(-339.000000, -936.000000)" fill="url(#linearGradient-1)">
+            <g id="bg_tag_4text_03" transform="translate(339.000000, 936.000000)">
+                <path d="M8,0 L87.9999767,0 C90.2091157,3.14690143e-15 91.9999767,1.790861 91.9999767,4 C91.9999767,5.12558766 91.5257353,6.19908486 90.6936251,6.95706921 L84.5850682,12.5214654 C83.7684961,13.2652959 83.7095273,14.5302521 84.4533578,15.3468242 C84.4951919,15.3927494 84.539143,15.4367005 84.5850682,15.4785346 L90.6936251,21.0429308 C92.3267694,22.5305917 92.4447069,25.0605042 90.9570459,26.6936484 C90.1990616,27.5257586 89.1255644,28 87.9999767,28 L0,28 L0,28 L0,8 C-5.41083001e-16,3.581722 3.581722,8.11624501e-16 8,0 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

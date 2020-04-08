@@ -1,0 +1,30 @@
+import 'package:json_annotation/json_annotation.dart';
+
+part 'MemberDetailsQueryRequest.g.dart';
+
+@JsonSerializable()
+class MemberDetailsQueryRequest {
+	//查询时间
+	String tranTime;
+	//终端号
+	String terminal;
+	//门店代码
+	String storeCode;
+	//识别类型，0-卡号，1-手机号，2-会员号，3-身份证号，4-虚拟卡号
+	int accountType;
+	//识别码，根据识别类型确定值
+	String accountCode;
+
+	MemberDetailsQueryRequest({
+		this.tranTime,
+		this.terminal,
+		this.storeCode,
+		this.accountType,
+		this.accountCode
+	});
+
+	factory MemberDetailsQueryRequest.fromJson(Map<String, dynamic> json) => _$MemberDetailsQueryRequestFromJson(json);
+
+	Map<String, dynamic> toJson() => _$MemberDetailsQueryRequestToJson(this);
+
+}

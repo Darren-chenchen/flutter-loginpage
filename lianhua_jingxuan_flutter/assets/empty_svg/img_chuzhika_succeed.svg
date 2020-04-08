@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="177px" viewBox="0 0 240 177" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>img_chuzhika_succeed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="122.874129%" id="linearGradient-1">
+            <stop stop-color="#D5D8E2" offset="0%"></stop>
+            <stop stop-color="#F1F3F6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22,0 L198,0 C210.150264,-2.23196738e-15 220,9.8497355 220,22 L220,143 C220,155.150264 210.150264,165 198,165 L22,165 C9.8497355,165 1.48797825e-15,155.150264 0,143 L0,22 C-1.48797825e-15,9.8497355 9.8497355,-8.42617366e-15 22,0 Z" id="path-2"></path>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#D5D8E2" offset="0%"></stop>
+            <stop stop-color="#F1F3F6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M21.3125,10.3125 L198.6875,10.3125 C204.762632,10.3125 209.6875,15.2373678 209.6875,21.3125 L209.6875,143.6875 C209.6875,149.762632 204.762632,154.6875 198.6875,154.6875 L21.3125,154.6875 C15.2373678,154.6875 10.3125,149.762632 10.3125,143.6875 L10.3125,21.3125 C10.3125,15.2373678 15.2373678,10.3125 21.3125,10.3125 Z" id="path-5"></path>
+        <path d="M68.75,110 C74.4454365,110 79.0625,114.617064 79.0625,120.3125 C79.0625,126.007936 74.4454365,130.625 68.75,130.625 C63.0545635,130.625 58.4375,126.007936 58.4375,120.3125 C58.4375,114.617064 63.0545635,110 68.75,110 Z" id="path-7"></path>
+        <filter x="-53.3%" y="-63.0%" width="226.1%" height="226.1%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0796547203 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M37.8125,110 C43.5079365,110 48.125,114.617064 48.125,120.3125 C48.125,126.007936 43.5079365,130.625 37.8125,130.625 C32.1170635,130.625 27.5,126.007936 27.5,120.3125 C27.5,114.617064 32.1170635,110 37.8125,110 Z" id="path-9"></path>
+        <filter x="-53.3%" y="-63.0%" width="226.1%" height="226.1%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0796547203 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-11" points="10.3125 51.5625 209.6875 51.5625 209.6875 72.1875 10.3125 72.1875"></polygon>
+        <filter x="-5.5%" y="-63.0%" width="113.0%" height="226.1%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0796547203 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M15.312,45.4666667 L33.7832,63.8968 C34.5954228,64.7047329 35.9028696,64.7203287 36.7341333,63.932 L72.7056,29.0576 C73.0940191,28.6855095 73.312681,28.1702957 73.3104796,27.6324149 C73.3082448,27.094534 73.0853413,26.5811412 72.6938667,26.2122667 L70.4234667,24.068 C69.5645369,23.2983278 68.2670254,23.2882695 67.3962667,24.0445333 L36.7898667,51.6912 C35.9159064,52.4477138 34.6190269,52.4477138 33.7450667,51.6912 L20.6976,39.7378667 C19.8581851,38.979737 18.56915,39.0225319 17.7818667,39.8346667 L15.2445333,42.5157333 C14.4599277,43.3548408 14.4899019,44.6671898 15.312,45.4696 L15.312,45.4666667 Z" id="path-13"></path>
+        <filter x="-22.2%" y="-26.8%" width="144.3%" height="163.4%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.300207605 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img" transform="translate(-1224.000000, -3216.000000)">
+            <g id="img_chuzhika_succeed" transform="translate(1224.000000, 3216.000000)">
+                <g>
+                    <g id="储值卡">
+                        <g id="椭圆形">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="蒙版" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                            <mask id="mask-6" fill="white">
+                                <use xlink:href="#path-5"></use>
+                            </mask>
+                            <use id="蒙版备份-2" fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="矩形备份-4">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                            <use fill-opacity="0.7" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                        </g>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                            <use fill-opacity="0.7" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                        </g>
+                        <g id="矩形">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                            <use fill-opacity="0.7" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                        </g>
+                    </g>
+                    <g id="成功" transform="translate(152.000000, 89.000000)" fill-rule="nonzero">
+                        <path d="M44,88 C19.7002667,88 0,68.2997333 0,44 C0,19.7002667 19.7002667,0 44,0 C68.2997333,0 88,19.7002667 88,44 C88,68.2997333 68.2997333,88 44,88 Z" id="路径" fill="#1EC66D"></path>
+                        <g id="路径">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                            <use fill="#FFFFFF" xlink:href="#path-13"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

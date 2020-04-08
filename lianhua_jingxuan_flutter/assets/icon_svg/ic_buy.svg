@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_buy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M12,24 C13.1045695,24 14,24.8954305 14,26 C14,27.1045695 13.1045695,28 12,28 C10.8954305,28 10,27.1045695 10,26 C10,24.8954305 10.8954305,24 12,24 Z M23,24 C24.1045695,24 25,24.8954305 25,26 C25,27.1045695 24.1045695,28 23,28 C21.8954305,28 21,27.1045695 21,26 C21,24.8954305 21.8954305,24 23,24 Z M8.5,4 C9.32842712,4 10,4.67157288 10,5.5 L9.996,5.575 L10.067,6 L26.1446,6 C27.2491695,6 28.1446,6.8954305 28.1446,8 C28.1446,8.23310503 28.1038489,8.46441555 28.0241869,8.68348613 L25.4787323,15.6834861 C25.191322,16.4738645 24.4401584,17 23.5991455,17 L12,17 L11.896,16.996 L12.23,19 L23.5,19 C24.3284271,19 25,19.6715729 25,20.5 C25,21.3284271 24.3284271,22 23.5,22 L11.0505149,22 C10.5444956,22 10.0969987,21.749436 9.82532683,21.3656107 C9.64161196,21.163703 9.51020758,20.9089447 9.45922473,20.6198066 C9.4583945,20.6150981 9.457587,20.6103857 9.45680227,20.6056694 L7.192,7 L4.5,7 C3.67157288,7 3,6.32842712 3,5.5 C3,4.67157288 3.67157288,4 4.5,4 L8.5,4 Z" id="path-1"></path>
+        <filter x="-19.9%" y="-16.7%" width="139.8%" height="141.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.321568627   0 0 0 0 0.188235294  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-263.000000, -261.000000)">
+            <g id="ic_buy" transform="translate(263.000000, 261.000000)">
+                <g id="cutting/ic_buy">
+                    <g id="形状结合">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FF5230" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

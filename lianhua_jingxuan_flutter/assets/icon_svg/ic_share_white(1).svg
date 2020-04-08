@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ic_share_white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="🔪切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon" transform="translate(-1421.000000, -526.000000)">
+            <g id="ic_share_white" transform="translate(1421.000000, 526.000000)">
+                <g id="cutting/ic_share_white">
+                    <g id="cutting/ic_share_grey" stroke-width="1" fill-rule="evenodd" transform="translate(4.000000, 4.000000)">
+                        <g id="share">
+                            <path d="M29.6783383,6.53104096 C30.3667656,5.82705117 31.472997,5.82219606 32.1804154,6.52133075 L35.2949555,9.70627767 C36.2350148,10.6675879 36.2350148,12.2212205 35.2949555,13.1825307 L32.1804154,16.3674776 C31.4872404,17.0763225 30.3620178,17.0763225 29.6688427,16.3674776 C28.9756677,15.6586327 28.9756677,14.5079736 29.6688427,13.7991287 L30.1958457,13.2602123 L27.9026706,13.2602123 C21.6688427,13.2602123 19.5513353,15.9742144 19.5513353,24.1841918 C19.5513353,25.189198 18.758457,26 17.7756677,26 C16.7928783,26 16,25.189198 16,24.1841918 C16,14.0321736 19.6225519,9.62859604 27.9026706,9.62859604 L30.1958457,9.62859604 L29.6545994,9.07511441 C28.9804154,8.36141441 28.989911,7.23017565 29.6783383,6.53104096 Z" id="形状" fill="#FFFFFF" fill-rule="nonzero"></path>
+                            <path d="M20,0 C8.954305,0 0,8.954305 0,20 C0,31.045695 8.954305,40 20,40 L20,40 C31.045695,40 40,31.045695 40,20" id="路径" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                    <rect x="0" y="0" width="48" height="48"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
